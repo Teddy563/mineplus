@@ -1,8 +1,8 @@
 # Mineplus: Minecraft inside every other game
 
-Every mod, port and bridge that runs Minecraft inside another game, and the games that run inside Minecraft. **65 projects across 38 games, plus 33 games inside Minecraft.** Search, filter and watch the videos at **[mineplus.org](https://mineplus.org)**.
+Every mod, port and bridge that runs Minecraft inside another game, and the games that run inside Minecraft. **64 projects across 38 games, plus 33 games inside Minecraft.** Search, filter and watch the videos at **[mineplus.org](https://mineplus.org)**.
 
-[![Mineplus](https://img.shields.io/badge/browse-mineplus.org-ffda36?style=flat-square&labelColor=1c1c1c)](https://mineplus.org) ![Projects](https://img.shields.io/badge/projects-98-ffda36?style=flat-square&labelColor=1c1c1c) ![Updated](https://img.shields.io/badge/updated-2026--10--19-ffda36?style=flat-square&labelColor=1c1c1c)
+[![Mineplus](https://img.shields.io/badge/browse-mineplus.org-ffda36?style=flat-square&labelColor=1c1c1c)](https://mineplus.org) ![Projects](https://img.shields.io/badge/projects-97-ffda36?style=flat-square&labelColor=1c1c1c) ![Updated](https://img.shields.io/badge/updated-2026--10--19-ffda36?style=flat-square&labelColor=1c1c1c)
 
 > **Safety.** Download only from the creator's own repo or release page. Fake "mashup" repos spread malware on the back of this trend; they are never listed here. Use these mods offline and in single-player only, and back up your saves.
 
@@ -46,7 +46,7 @@ Every mod, port and bridge that runs Minecraft inside another game, and the game
 - [Minecraft in ULTRAKILL](#minecraft-in-ultrakill) (1)
 - [Minecraft in Valheim](#minecraft-in-valheim) (1)
 - [Minecraft in World of Warcraft](#minecraft-in-world-of-warcraft) (1)
-- [Tools](#tools) (4)
+- [Tools](#tools) (3)
 - [Games inside Minecraft](#games-inside-minecraft) (33)
 - [Add a project](#add-a-project)
 
@@ -71,7 +71,7 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 
 ## Minecraft in GTA V
 
-- **[Minecraft in GTA V](https://github.com/rehan-remade/universal-modder/tree/main/examples/minecraft-gta5-passthrough)** by Rehan Sheikh / rehan-remade · Code only · ★ 8,437 · [details](https://mineplus.org/p/minecraft-gta-v/)  
+- **Minecraft in GTA V** by Rehan Sheikh / rehan-remade · Code only · [details](https://mineplus.org/p/minecraft-gta-v/)  
   Runs real Minecraft movement, building, mobs and combat inside GTA V Story Mode.
 - **[Wither Storm × GTA V Passthrough](https://github.com/VortexisTV/wither-storm-gta5-passthrough)** by VortexisTV · Released · ★ 22 · [details](https://mineplus.org/p/wither-storm-gta-v/)  
   Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos.
@@ -100,7 +100,7 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 - **[F4Craft](https://github.com/ReviteX01/F4Craft)** by ReviteX01 · In development · ★ 1 · [details](https://mineplus.org/p/f4craft-revitex01/)  
   An early project to run Minecraft inside Fallout 4; the repository has no code or README yet.
 - **[FalloutCraft (proximalbeet)](https://github.com/proximalbeet/FalloutCraft)** by proximalbeet · Unreviewed · [details](https://mineplus.org/p/falloutcraft-proximalbeet/)  
-  A Fallout 4 mod that adds Minecraft gameplay to the game, built with the universal-modder plugin for Claude Code.
+  A Fallout 4 mod that adds Minecraft gameplay to the game.
 
 ## Minecraft in Fallout: New Vegas
 
@@ -294,8 +294,6 @@ Status: **Released** has a build from the creator · **Code only** has source bu
   Generates the shared-memory bridge skeleton for two-process "passthrough" game mashups from one schema.
 - **[SkyCraft Item Drops](https://github.com/scringleflump/Skycraft-item-drops)** by scringleflump · Unreviewed · [details](https://mineplus.org/p/skycraft-item-drops/)  
   An add-on for SkyCraft that makes Skyrim enemies drop fitting Minecraft loot, such as rotten flesh from undead and redstone from storm atronachs.
-- **[Universal Modder](https://github.com/rehan-remade/universal-modder)** by rehan-remade · Code only · ★ 8,437 · [details](https://mineplus.org/p/universal-modder/)  
-  Claude Code skills/tools that mod almost any PC game; ships a minecraft-gta5-passthrough example.
 - **[SkyCraft-Deck](https://github.com/chasesfloorboard/SkyCraft-Deck)** by chasesfloorboard · Code only · [details](https://mineplus.org/p/skycraft-deck/)  
   An installer that sets up SkyCraft on a Steam Deck or any Linux PC running Skyrim Special Edition through Proton, without a mod manager.
 

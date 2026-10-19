@@ -89,15 +89,11 @@
     },
     "summary": "Runs real Minecraft movement, building, mobs and combat inside GTA V Story Mode.",
     "links": {
-      "repo": "https://github.com/rehan-remade/universal-modder/tree/main/examples/minecraft-gta5-passthrough",
+      "repo": null,
       "download": null,
       "page": null,
       "articles": [],
       "extra": [
-        {
-          "label": "Primary field note",
-          "url": "https://github.com/rehan-remade/universal-modder/blob/main/knowledge/games/gta-v/minecraft-passthrough.md"
-        },
         {
           "label": "GTA V Enhanced derivative",
           "url": "https://github.com/GrantMatas/minecraft-in-gta-enhanced"
@@ -107,13 +103,6 @@
           "url": "https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough"
         }
       ]
-    },
-    "github": {
-      "stars": 8437,
-      "created": "2026-09-30",
-      "pushed": "2026-10-19",
-      "license": "MIT",
-      "archived": false
     },
     "first_shown": "2026-10-01",
     "verified_on": "2026-10-19",
@@ -615,12 +604,7 @@
       "download": "https://www.nexusmods.com/gta4/mods/1498",
       "page": "https://www.nexusmods.com/gta4/mods/1498",
       "articles": [],
-      "extra": [
-        {
-          "label": "universal-modder (upstream example)",
-          "url": "https://github.com/rehan-remade/universal-modder"
-        }
-      ]
+      "extra": []
     },
     "github": {},
     "first_shown": "2026-10-02",
@@ -698,7 +682,7 @@
       "name": "proximalbeet",
       "url": "https://github.com/proximalbeet"
     },
-    "summary": "A Fallout 4 mod that adds Minecraft gameplay to the game, built with the universal-modder plugin for Claude Code.",
+    "summary": "A Fallout 4 mod that adds Minecraft gameplay to the game.",
     "links": {
       "repo": "https://github.com/proximalbeet/FalloutCraft"
     },
@@ -1070,12 +1054,7 @@
       "download": "https://github.com/Rizen1322/l4d2-minecraft/releases",
       "page": null,
       "articles": [],
-      "extra": [
-        {
-          "label": "Universal Modder (template origin)",
-          "url": "https://github.com/rehan-remade/universal-modder"
-        }
-      ]
+      "extra": []
     },
     "github": {
       "stars": 3,
@@ -1322,12 +1301,7 @@
       "download": "https://github.com/Deez-coder/halfcraft/releases",
       "page": null,
       "articles": [],
-      "extra": [
-        {
-          "label": "Universal Modder",
-          "url": "https://github.com/rehan-remade/universal-modder"
-        }
-      ]
+      "extra": []
     },
     "github": {
       "stars": 1,
@@ -1618,12 +1592,7 @@
       "download": "https://www.nexusmods.com/mysummercar/mods/12619",
       "page": "https://www.nexusmods.com/mysummercar/mods/12619",
       "articles": [],
-      "extra": [
-        {
-          "label": "universal-modder (upstream)",
-          "url": "https://github.com/rehan-remade/universal-modder"
-        }
-      ]
+      "extra": []
     },
     "github": {},
     "first_shown": "2026-10-06",
@@ -1650,12 +1619,7 @@
       "download": null,
       "page": null,
       "articles": [],
-      "extra": [
-        {
-          "label": "universal-modder (upstream example)",
-          "url": "https://github.com/rehan-remade/universal-modder"
-        }
-      ]
+      "extra": []
     },
     "github": {
       "stars": 0,
@@ -1764,12 +1728,7 @@
       "download": "https://github.com/ImmortalSouull/BlockBreach/releases",
       "page": null,
       "articles": [],
-      "extra": [
-        {
-          "label": "universal-modder (upstream example)",
-          "url": "https://github.com/rehan-remade/universal-modder"
-        }
-      ]
+      "extra": []
     },
     "github": {
       "stars": 0,
@@ -1996,31 +1955,6 @@
     "github": {},
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/skycraft-item-drops/"
-  },
-  {
-    "id": "universal-modder",
-    "title": "Universal Modder",
-    "host": "Any game",
-    "direction": "tooling",
-    "category": "tool",
-    "status": "code-only",
-    "creator": {
-      "name": "rehan-remade",
-      "url": "https://github.com/rehan-remade"
-    },
-    "summary": "Claude Code skills/tools that mod almost any PC game; ships a minecraft-gta5-passthrough example.",
-    "links": {
-      "repo": "https://github.com/rehan-remade/universal-modder"
-    },
-    "github": {
-      "stars": 8437,
-      "created": "2026-09-30",
-      "pushed": "2026-10-19",
-      "license": "MIT",
-      "archived": false
-    },
-    "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/universal-modder/"
   },
   {
     "id": "skycraft-deck",
