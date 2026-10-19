@@ -63,7 +63,7 @@
       ]
     },
     "github": {
-      "stars": 1210,
+      "stars": 1242,
       "created": "2026-09-30",
       "pushed": "2026-10-01",
       "license": "MIT",
@@ -109,9 +109,9 @@
       ]
     },
     "github": {
-      "stars": 7609,
+      "stars": 8437,
       "created": "2026-09-30",
-      "pushed": "2026-10-14",
+      "pushed": "2026-10-19",
       "license": "MIT",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "extra": []
     },
     "github": {
-      "stars": 20,
+      "stars": 22,
       "created": "2026-10-02",
       "pushed": "2026-10-05",
       "license": "MIT",
@@ -201,7 +201,7 @@
       "repo": "https://github.com/gta5craft/GtaCraft"
     },
     "github": {
-      "stars": 4,
+      "stars": 5,
       "created": "2026-10-09",
       "pushed": "2026-10-13",
       "license": "NOASSERTION",
@@ -229,7 +229,7 @@
     "github": {
       "stars": 1,
       "created": "2026-10-04",
-      "pushed": "2026-10-13",
+      "pushed": "2026-10-16",
       "license": null,
       "archived": false
     },
@@ -291,7 +291,7 @@
       ]
     },
     "github": {
-      "stars": 61,
+      "stars": 69,
       "created": "2026-10-02",
       "pushed": "2026-10-06",
       "license": "MIT",
@@ -323,7 +323,7 @@
       "extra": []
     },
     "github": {
-      "stars": 33,
+      "stars": 32,
       "created": "2026-10-01",
       "pushed": "2026-10-01",
       "license": "MIT",
@@ -365,7 +365,7 @@
       ]
     },
     "github": {
-      "stars": 15,
+      "stars": 18,
       "created": "2026-10-06",
       "pushed": "2026-10-11",
       "license": "MIT",
@@ -407,6 +407,32 @@
     "page": "https://mineplus.org/p/minecraft-elden-ring-tobynjacobs/"
   },
   {
+    "id": "eldencraft-wargamereview-ship-it",
+    "title": "EldenCraft (wargamereview)",
+    "host": "Elden Ring",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "wargamereview-ship-it",
+      "url": "https://github.com/wargamereview-ship-it"
+    },
+    "summary": "Elden Ring x Minecraft",
+    "links": {
+      "repo": "https://github.com/wargamereview-ship-it/EldenCraft"
+    },
+    "github": {
+      "stars": 4,
+      "created": "2026-10-04",
+      "pushed": "2026-10-09",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-04",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/eldencraft-wargamereview-ship-it/"
+  },
+  {
     "id": "minering-franguchico",
     "title": "MineRing",
     "host": "Elden Ring",
@@ -417,11 +443,18 @@
       "name": "franguchico",
       "url": "https://github.com/franguchico"
     },
-    "summary": "<a href=\"https://minering.franchico.com\"><img src=\"docs/img/banner.jpg\" alt=\"MineRing: Minecraft x Elden Ring\" width=\"820\"></a>",
+    "summary": "MineRing: launcher e instalador co-op de Minecraft x Elden Ring",
     "links": {
       "repo": "https://github.com/franguchico/MineRing"
     },
-    "github": {},
+    "github": {
+      "stars": 1,
+      "created": "2026-10-05",
+      "pushed": "2026-10-08",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-05",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/minering-franguchico/"
   },
@@ -436,32 +469,20 @@
       "name": "ZHX4",
       "url": "https://github.com/ZHX4"
     },
-    "summary": "**A Windows-focused experimental fork of Minecraft Ring by siddoff.**",
+    "summary": "Experimental Windows fork of Minecraft Ring with a portable launcher, custom Elden Ring paths, and optional TLauncher workflow (end-to-end testing pending).",
     "links": {
       "repo": "https://github.com/ZHX4/Elden-Craft"
     },
-    "github": {},
+    "github": {
+      "stars": 1,
+      "created": "2026-10-08",
+      "pushed": "2026-10-08",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-08",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/elden-craft-zhx4/"
-  },
-  {
-    "id": "eldencraft-wargamereview-ship-it",
-    "title": "EldenCraft (wargamereview)",
-    "host": "Elden Ring",
-    "direction": "minecraft-into",
-    "category": "port",
-    "status": "unreviewed",
-    "creator": {
-      "name": "wargamereview-ship-it",
-      "url": "https://github.com/wargamereview-ship-it"
-    },
-    "summary": "**Minecraft survival, combat and building inside Elden Ring’s actual world.**",
-    "links": {
-      "repo": "https://github.com/wargamereview-ship-it/EldenCraft"
-    },
-    "github": {},
-    "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/eldencraft-wargamereview-ship-it/"
   },
   {
     "id": "minepunk-duocor3",
@@ -630,7 +651,7 @@
       "extra": []
     },
     "github": {
-      "stars": 10,
+      "stars": 11,
       "created": "2026-10-01",
       "pushed": "2026-10-04",
       "license": "MIT",
@@ -655,7 +676,14 @@
     "links": {
       "repo": "https://github.com/ReviteX01/F4Craft"
     },
-    "github": {},
+    "github": {
+      "stars": 1,
+      "created": "2026-10-10",
+      "pushed": "2026-10-10",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2026-10-10",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/f4craft-revitex01/"
   },
@@ -674,7 +702,14 @@
     "links": {
       "repo": "https://github.com/proximalbeet/FalloutCraft"
     },
-    "github": {},
+    "github": {
+      "stars": 0,
+      "created": "2026-10-08",
+      "pushed": "2026-10-08",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2026-10-08",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/falloutcraft-proximalbeet/"
   },
@@ -712,6 +747,32 @@
     "page": "https://mineplus.org/p/new-vegascraft/"
   },
   {
+    "id": "vegascraft-benedettoscala",
+    "title": "VegasCraft (benedettoscala)",
+    "host": "Fallout: New Vegas",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "benedettoscala",
+      "url": "https://github.com/benedettoscala"
+    },
+    "summary": "Play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat. Experimental xNVSE + Fabric port inspired by SkyCraft.",
+    "links": {
+      "repo": "https://github.com/benedettoscala/VegasCraft"
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-10-03",
+      "pushed": "2026-10-03",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-03",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/vegascraft-benedettoscala/"
+  },
+  {
     "id": "vegascraft-hanaka15",
     "title": "VegasCraft (Hanaka15)",
     "host": "Fallout: New Vegas",
@@ -726,28 +787,16 @@
     "links": {
       "repo": "https://github.com/Hanaka15/VegasCraft"
     },
-    "github": {},
+    "github": {
+      "stars": 0,
+      "created": "2026-10-05",
+      "pushed": "2026-10-06",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-05",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/vegascraft-hanaka15/"
-  },
-  {
-    "id": "vegascraft-benedettoscala",
-    "title": "VegasCraft (benedettoscala)",
-    "host": "Fallout: New Vegas",
-    "direction": "minecraft-into",
-    "category": "port",
-    "status": "unreviewed",
-    "creator": {
-      "name": "benedettoscala",
-      "url": "https://github.com/benedettoscala"
-    },
-    "summary": "Play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks, and combat. VegasCraft is an experimental Windows port inspired by [SkyCraft](https://github.com/chasmlol/SkyCraft), using a ",
-    "links": {
-      "repo": "https://github.com/benedettoscala/VegasCraft"
-    },
-    "github": {},
-    "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/vegascraft-benedettoscala/"
   },
   {
     "id": "witchercraft",
@@ -777,7 +826,7 @@
       ]
     },
     "github": {
-      "stars": 0,
+      "stars": 1,
       "created": "2026-10-10",
       "pushed": "2026-10-11",
       "license": "MIT",
@@ -820,7 +869,7 @@
       ]
     },
     "github": {
-      "stars": 884,
+      "stars": 900,
       "created": "2026-09-27",
       "pushed": "2026-10-02",
       "license": "Apache-2.0",
@@ -853,7 +902,7 @@
       "extra": []
     },
     "github": {
-      "stars": 32,
+      "stars": 35,
       "created": "2026-02-27",
       "pushed": "2026-05-28",
       "license": "MIT",
@@ -886,7 +935,7 @@
       "extra": []
     },
     "github": {
-      "stars": 6,
+      "stars": 8,
       "created": "2026-10-02",
       "pushed": "2026-10-02",
       "license": null,
@@ -1040,6 +1089,77 @@
     "page": "https://mineplus.org/p/l4d2-minecraft/"
   },
   {
+    "id": "killcraft",
+    "title": "Killcraft",
+    "host": "ULTRAKILL",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "goonsn",
+      "url": "https://github.com/goonsn"
+    },
+    "summary": "Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels.",
+    "links": {
+      "repo": "https://github.com/goonsn/Killcraft",
+      "download": "https://github.com/goonsn/Killcraft/releases/tag/v1.0.2",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 2,
+      "created": "2026-10-04",
+      "pushed": "2026-10-11",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-04",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/killcraft/"
+  },
+  {
+    "id": "subnauticraft",
+    "title": "Subnauticraft (Subnautica Link)",
+    "host": "Subnautica",
+    "guest": [
+      "Minecraft: Java Edition (Fabric)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "JasonNinja15",
+      "url": "https://github.com/JasonNinja15"
+    },
+    "summary": "Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer.",
+    "links": {
+      "repo": "https://github.com/JasonNinja15/Subnauticraft",
+      "download": "https://github.com/JasonNinja15/Subnauticraft/releases",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "SubCraft (separate project)",
+          "url": "https://github.com/FumperForrest/SubCraft"
+        }
+      ]
+    },
+    "github": {
+      "stars": 2,
+      "created": "2026-10-06",
+      "pushed": "2026-10-08",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-06",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/subnauticraft/"
+  },
+  {
     "id": "peakcraft",
     "title": "PeakCraft",
     "host": "PEAK",
@@ -1078,6 +1198,44 @@
     "page": "https://mineplus.org/p/peakcraft/"
   },
   {
+    "id": "halfcraft-half-life",
+    "title": "HalfCraft (Minecraft in Half-Life)",
+    "host": "Half-Life",
+    "guest": [
+      "Minecraft: Java Edition (Fabric)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "sogutemir",
+      "url": "https://github.com/sogutemir"
+    },
+    "summary": "Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release.",
+    "links": {
+      "repo": "https://github.com/sogutemir/HalfCraft",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Upstream SkyCraft",
+          "url": "https://github.com/chasmlol/SkyCraft"
+        }
+      ]
+    },
+    "github": {
+      "stars": 2,
+      "created": "2026-10-04",
+      "pushed": "2026-10-04",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-09-30",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/halfcraft-half-life/"
+  },
+  {
     "id": "minecraft-hytale-crossplay-ssquadteam",
     "title": "Minecraft ↔ Hytale crossplay (SSquadTeam)",
     "host": "Hytale",
@@ -1112,9 +1270,80 @@
     "page": "https://mineplus.org/p/minecraft-hytale-crossplay-ssquadteam/"
   },
   {
-    "id": "killcraft",
-    "title": "Killcraft",
-    "host": "ULTRAKILL",
+    "id": "subcraft",
+    "title": "SubCraft",
+    "host": "Subnautica",
+    "guest": [
+      "Minecraft: Java Edition 1.21.1"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "FumperForrest",
+      "url": "https://github.com/FumperForrest"
+    },
+    "summary": "Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering.",
+    "links": {
+      "repo": "https://github.com/FumperForrest/SubCraft",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-10-01",
+      "pushed": "2026-10-03",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-01",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/subcraft/"
+  },
+  {
+    "id": "halfcraft",
+    "title": "Halfcraft (Minecraft in Half Sword)",
+    "host": "Half Sword",
+    "guest": [
+      "Minecraft: Java Edition 26.3 (Fabric)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "Deez-coder",
+      "url": "https://github.com/Deez-coder"
+    },
+    "summary": "Puts real Minecraft blocks, mobs and combat into Half Sword's arenas.",
+    "links": {
+      "repo": "https://github.com/Deez-coder/halfcraft",
+      "download": "https://github.com/Deez-coder/halfcraft/releases",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Universal Modder",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        }
+      ]
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-10-10",
+      "pushed": "2026-10-13",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-10",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/halfcraft/"
+  },
+  {
+    "id": "gorilla-passthrough",
+    "title": "Gorilla Passthrough (Gorilla Tag x Minecraft)",
+    "host": "Gorilla Tag (VR, Unity)",
     "guest": [
       "Minecraft: Java Edition"
     ],
@@ -1122,65 +1351,32 @@
     "category": "port",
     "status": "released",
     "creator": {
-      "name": "goonsn",
-      "url": "https://github.com/goonsn"
+      "name": "arvabarva",
+      "url": null
     },
-    "summary": "Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels.",
+    "summary": "Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world.",
     "links": {
-      "repo": "https://github.com/goonsn/Killcraft",
-      "download": "https://github.com/goonsn/Killcraft/releases/tag/v1.0.2",
-      "page": null,
-      "articles": [],
-      "extra": []
-    },
-    "github": {
-      "stars": 1,
-      "created": "2026-10-04",
-      "pushed": "2026-10-11",
-      "license": "MIT",
-      "archived": false
-    },
-    "first_shown": "2026-10-04",
-    "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/killcraft/"
-  },
-  {
-    "id": "subnauticraft",
-    "title": "Subnauticraft (Subnautica Link)",
-    "host": "Subnautica",
-    "guest": [
-      "Minecraft: Java Edition (Fabric)"
-    ],
-    "direction": "minecraft-into",
-    "category": "port",
-    "status": "released",
-    "creator": {
-      "name": "JasonNinja15",
-      "url": "https://github.com/JasonNinja15"
-    },
-    "summary": "Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer.",
-    "links": {
-      "repo": "https://github.com/JasonNinja15/Subnauticraft",
-      "download": "https://github.com/JasonNinja15/Subnauticraft/releases",
+      "repo": "https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough",
+      "download": "https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough/releases",
       "page": null,
       "articles": [],
       "extra": [
         {
-          "label": "SubCraft (separate project)",
-          "url": "https://github.com/FumperForrest/SubCraft"
+          "label": "Release notes",
+          "url": "https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough/releases"
         }
       ]
     },
     "github": {
       "stars": 1,
-      "created": "2026-10-06",
-      "pushed": "2026-10-08",
+      "created": "2026-10-12",
+      "pushed": "2026-10-13",
       "license": "MIT",
       "archived": false
     },
-    "first_shown": "2026-10-06",
+    "first_shown": "2026-10-13",
     "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/subnauticraft/"
+    "page": "https://mineplus.org/p/gorilla-passthrough/"
   },
   {
     "id": "halocraft",
@@ -1343,39 +1539,6 @@
     "page": "https://mineplus.org/p/wowcraft/"
   },
   {
-    "id": "subcraft",
-    "title": "SubCraft",
-    "host": "Subnautica",
-    "guest": [
-      "Minecraft: Java Edition 1.21.1"
-    ],
-    "direction": "minecraft-into",
-    "category": "port",
-    "status": "code-only",
-    "creator": {
-      "name": "FumperForrest",
-      "url": "https://github.com/FumperForrest"
-    },
-    "summary": "Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering.",
-    "links": {
-      "repo": "https://github.com/FumperForrest/SubCraft",
-      "download": null,
-      "page": null,
-      "articles": [],
-      "extra": []
-    },
-    "github": {
-      "stars": 0,
-      "created": "2026-10-01",
-      "pushed": "2026-10-03",
-      "license": "MIT",
-      "archived": false
-    },
-    "first_shown": "2026-10-01",
-    "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/subcraft/"
-  },
-  {
     "id": "minebonk",
     "title": "Minebonk",
     "host": "Megabonk",
@@ -1506,44 +1669,6 @@
     "page": "https://mineplus.org/p/minecraft-x-saints-row-3/"
   },
   {
-    "id": "halfcraft",
-    "title": "Halfcraft (Minecraft in Half Sword)",
-    "host": "Half Sword",
-    "guest": [
-      "Minecraft: Java Edition 26.3 (Fabric)"
-    ],
-    "direction": "minecraft-into",
-    "category": "port",
-    "status": "released",
-    "creator": {
-      "name": "Deez-coder",
-      "url": "https://github.com/Deez-coder"
-    },
-    "summary": "Puts real Minecraft blocks, mobs and combat into Half Sword's arenas.",
-    "links": {
-      "repo": "https://github.com/Deez-coder/halfcraft",
-      "download": "https://github.com/Deez-coder/halfcraft/releases",
-      "page": null,
-      "articles": [],
-      "extra": [
-        {
-          "label": "Universal Modder",
-          "url": "https://github.com/rehan-remade/universal-modder"
-        }
-      ]
-    },
-    "github": {
-      "stars": 0,
-      "created": "2026-10-10",
-      "pushed": "2026-10-13",
-      "license": "NOASSERTION",
-      "archived": false
-    },
-    "first_shown": "2026-10-10",
-    "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/halfcraft/"
-  },
-  {
     "id": "lethalcraft",
     "title": "LethalCraft",
     "host": "Lethal Company",
@@ -1582,36 +1707,80 @@
     "page": "https://mineplus.org/p/lethalcraft/"
   },
   {
-    "id": "halfcraft-half-life",
-    "title": "HalfCraft (Minecraft in Half-Life)",
-    "host": "Half-Life",
+    "id": "sbcraft",
+    "title": "SBCraft",
+    "host": "FNAF: Security Breach",
     "guest": [
-      "Minecraft: Java Edition (Fabric)"
+      "Minecraft: Java Edition"
     ],
     "direction": "minecraft-into",
     "category": "port",
-    "status": "code-only",
+    "status": "released",
     "creator": {
-      "name": "sogutemir",
-      "url": "https://github.com/sogutemir"
+      "name": "pebbleford",
+      "url": null
     },
-    "summary": "Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release.",
+    "summary": "Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game.",
     "links": {
-      "repo": "https://github.com/sogutemir/HalfCraft",
-      "download": null,
+      "repo": "https://github.com/pebbleford/sbcraft",
+      "download": "https://github.com/pebbleford/sbcraft/releases/latest",
       "page": null,
       "articles": [],
       "extra": [
         {
-          "label": "Upstream SkyCraft",
-          "url": "https://github.com/chasmlol/SkyCraft"
+          "label": "Installer release",
+          "url": "https://github.com/pebbleford/sbcraft/releases/latest"
         }
       ]
     },
-    "github": {},
-    "first_shown": "2026-09-30",
+    "github": {
+      "stars": 0,
+      "created": "2026-10-13",
+      "pushed": "2026-10-13",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-12",
     "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/halfcraft-half-life/"
+    "page": "https://mineplus.org/p/sbcraft/"
+  },
+  {
+    "id": "blockbreach",
+    "title": "BlockBreach",
+    "host": "Ready or Not",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "ImmortalSouull",
+      "url": null
+    },
+    "summary": "Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game.",
+    "links": {
+      "repo": "https://github.com/ImmortalSouull/BlockBreach",
+      "download": "https://github.com/ImmortalSouull/BlockBreach/releases",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "universal-modder (upstream example)",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        }
+      ]
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-06",
+      "pushed": "2026-10-06",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-06",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/blockbreach/"
   },
   {
     "id": "bendy-minecraft-mashup",
@@ -1647,7 +1816,14 @@
     "links": {
       "repo": "https://github.com/EQQX0/PalCraft"
     },
-    "github": {},
+    "github": {
+      "stars": 0,
+      "created": "2026-10-12",
+      "pushed": "2026-10-13",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-12",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/palcraft-eqqx0/"
   },
@@ -1662,11 +1838,18 @@
       "name": "MotherSphere",
       "url": "https://github.com/MotherSphere"
     },
-    "summary": "Stellar Blade × Minecraft lets you walk, fight and build in a Minecraft world as EVE. Stellar Blade runs alongside, under Proton on Linux or natively on Windows, and simulates her: her controls, anima",
+    "summary": "Experimental Stellar Blade passthrough for Minecraft Java on Linux and Proton",
     "links": {
       "repo": "https://github.com/MotherSphere/stellarblade-minecraft"
     },
-    "github": {},
+    "github": {
+      "stars": 0,
+      "created": "2026-10-05",
+      "pushed": "2026-10-12",
+      "license": "GPL-3.0",
+      "archived": false
+    },
+    "first_shown": "2026-10-05",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/stellarblade-minecraft-mothersphere/"
   },
@@ -1685,7 +1868,14 @@
     "links": {
       "repo": "https://github.com/Gorikla34/MiSide-x-Minecraft-Mashup-v1.0.0"
     },
-    "github": {},
+    "github": {
+      "stars": 0,
+      "created": "2026-10-11",
+      "pushed": "2026-10-17",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2026-10-11",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/miside-x-minecraft-mashup-v1-0-0-gorikla34/"
   },
@@ -1745,25 +1935,6 @@
     "github": {},
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/grovecraft/"
-  },
-  {
-    "id": "sbcraft",
-    "title": "SBCraft",
-    "host": "FNAF: Security Breach",
-    "direction": "minecraft-into",
-    "category": "port",
-    "status": "unreviewed",
-    "creator": {
-      "name": "pebbleford",
-      "url": "https://github.com/pebbleford"
-    },
-    "summary": "Runs real Minecraft Java next to Five Nights at Freddy's: Security Breach and blends its picture in, so you build in the Pizzaplex with Minecraft's hand and hotbar.",
-    "links": {
-      "repo": "https://github.com/pebbleford/sbcraft"
-    },
-    "github": {},
-    "verified_on": "2026-10-19",
-    "page": "https://mineplus.org/p/sbcraft/"
   },
   {
     "id": "passthrough-mod-toolkit",
@@ -1842,9 +2013,9 @@
       "repo": "https://github.com/rehan-remade/universal-modder"
     },
     "github": {
-      "stars": 7609,
+      "stars": 8437,
       "created": "2026-09-30",
-      "pushed": "2026-10-14",
+      "pushed": "2026-10-19",
       "license": "MIT",
       "archived": false
     },
@@ -1866,7 +2037,13 @@
     "links": {
       "repo": "https://github.com/chasesfloorboard/SkyCraft-Deck"
     },
-    "github": {},
+    "github": {
+      "stars": 0,
+      "created": "2026-10-04",
+      "pushed": "2026-10-05",
+      "license": "MIT",
+      "archived": false
+    },
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/skycraft-deck/"
   },
@@ -2161,7 +2338,7 @@
       "extra": []
     },
     "github": {
-      "stars": 60,
+      "stars": 62,
       "created": "2026-02-03",
       "pushed": "2026-02-03",
       "license": "GPL-3.0",
@@ -2342,7 +2519,7 @@
       "extra": []
     },
     "github": {
-      "stars": 167,
+      "stars": 169,
       "created": "2022-03-14",
       "pushed": "2026-09-27",
       "license": "MIT",
@@ -2485,7 +2662,7 @@
       ]
     },
     "github": {
-      "stars": 528,
+      "stars": 529,
       "created": "2020-06-04",
       "pushed": "2024-07-10",
       "license": "NOASSERTION",
@@ -2611,9 +2788,9 @@
       ]
     },
     "github": {
-      "stars": 24,
+      "stars": 33,
       "created": "2026-10-06",
-      "pushed": "2026-10-13",
+      "pushed": "2026-10-19",
       "license": "MIT",
       "archived": false
     },
@@ -2755,7 +2932,13 @@
         }
       ]
     },
-    "github": {},
+    "github": {
+      "stars": 0,
+      "created": "2026-10-05",
+      "pushed": "2026-10-06",
+      "license": "GPL-2.0",
+      "archived": false
+    },
     "first_shown": "2026-10-05",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/knee-deep-in-the-mines/"
@@ -2812,7 +2995,13 @@
       "articles": [],
       "extra": []
     },
-    "github": {},
+    "github": {
+      "stars": 2,
+      "created": "2026-07-03",
+      "pushed": "2026-09-10",
+      "license": "NOASSERTION",
+      "archived": false
+    },
     "first_shown": "2026-07-11",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/retroconsole/"
@@ -2847,7 +3036,13 @@
         }
       ]
     },
-    "github": {},
+    "github": {
+      "stars": 4,
+      "created": "2025-04-27",
+      "pushed": "2026-09-21",
+      "license": "MIT",
+      "archived": false
+    },
     "first_shown": "2024-04-15",
     "verified_on": "2026-10-19",
     "page": "https://mineplus.org/p/blockboy/"
