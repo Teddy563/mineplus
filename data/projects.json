@@ -1,0 +1,2900 @@
+[
+  {
+    "id": "realworldmc",
+    "title": "RealWorldMC",
+    "host": "Minecraft (real-world maps)",
+    "direction": "world-into-minecraft",
+    "category": "featured",
+    "status": "released",
+    "creator": {
+      "name": "Teddy563",
+      "url": "https://github.com/Teddy563"
+    },
+    "summary": "A Fabric mod that streams Google Photorealistic 3D Tiles and Street View into Minecraft Java, so you can fly over real cities and step into street photos.",
+    "links": {
+      "repo": "https://github.com/Teddy563/realworldmc",
+      "download": "https://github.com/Teddy563/realworldmc/releases/latest",
+      "site": "https://realworldmc.com",
+      "related": [
+        {
+          "label": "Arnis by louis-e",
+          "url": "https://github.com/louis-e/arnis"
+        }
+      ]
+    },
+    "github": {
+      "stars": 77,
+      "created": "2026-10-09",
+      "pushed": "2026-10-14",
+      "license": "Apache-2.0"
+    },
+    "first_shown": "2026-10-09",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/realworldmc/"
+  },
+  {
+    "id": "skycraft",
+    "title": "SkyCraft",
+    "host": "Skyrim",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "chasmlol",
+      "url": "https://github.com/chasmlol"
+    },
+    "summary": "Brings Minecraft building, exploration and gameplay into Skyrim.",
+    "links": {
+      "repo": "https://github.com/chasmlol/SkyCraft",
+      "download": "https://github.com/chasmlol/SkyCraft/releases",
+      "page": null,
+      "articles": [
+        "https://heldgames.com/guides/skycraft-minecraft-inside-skyrim",
+        "https://shazoo.ru/2026/10/04/191830/modder-perenes-v-skyrim-logiku-minecraft-i-teper-v-skairime-mozno-kopat-zemliu-i-vzryvat-ee-tnt"
+      ],
+      "extra": [
+        {
+          "label": "Creator's Discord (chasm server)",
+          "url": "https://discord.com/invite/ccFpNC26Ts"
+        }
+      ]
+    },
+    "github": {
+      "stars": 1210,
+      "created": "2026-09-30",
+      "pushed": "2026-10-01",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-09-30",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/skycraft/"
+  },
+  {
+    "id": "minecraft-gta-v",
+    "title": "Minecraft in GTA V",
+    "host": "GTA V",
+    "guest": [
+      "Minecraft: Java Edition 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "Rehan Sheikh / rehan-remade",
+      "url": "https://github.com/rehan-remade"
+    },
+    "summary": "Runs real Minecraft movement, building, mobs and combat inside GTA V Story Mode.",
+    "links": {
+      "repo": "https://github.com/rehan-remade/universal-modder/tree/main/examples/minecraft-gta5-passthrough",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Primary field note",
+          "url": "https://github.com/rehan-remade/universal-modder/blob/main/knowledge/games/gta-v/minecraft-passthrough.md"
+        },
+        {
+          "label": "GTA V Enhanced derivative",
+          "url": "https://github.com/GrantMatas/minecraft-in-gta-enhanced"
+        },
+        {
+          "label": "Packaged GTA V Enhanced derivative",
+          "url": "https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough"
+        }
+      ]
+    },
+    "github": {
+      "stars": 7609,
+      "created": "2026-09-30",
+      "pushed": "2026-10-14",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-01",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-gta-v/"
+  },
+  {
+    "id": "wither-storm-gta-v",
+    "title": "Wither Storm × GTA V Passthrough",
+    "host": "GTA V",
+    "guest": [
+      "Minecraft: Java Edition 1.20.1",
+      "Cracker's Wither Storm Mod"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "VortexisTV",
+      "url": "https://github.com/VortexisTV"
+    },
+    "summary": "Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos.",
+    "links": {
+      "repo": "https://github.com/VortexisTV/wither-storm-gta5-passthrough",
+      "download": "https://github.com/VortexisTV/wither-storm-gta5-passthrough/releases/tag/mc-gta5",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 20,
+      "created": "2026-10-02",
+      "pushed": "2026-10-05",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-02",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/wither-storm-gta-v/"
+  },
+  {
+    "id": "grandtheftminecraft",
+    "title": "GrandTheftMinecraft",
+    "host": "GTA V",
+    "guest": [
+      "Minecraft: Java Edition 1.21.11"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "cyteon",
+      "url": "https://github.com/cyteon"
+    },
+    "summary": "Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode.",
+    "links": {
+      "repo": "https://github.com/cyteon/GrandTheftMinecraft",
+      "download": "https://github.com/cyteon/GrandTheftMinecraft/releases/tag/v1.5.1",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 10,
+      "created": "2026-10-04",
+      "pushed": "2026-10-09",
+      "license": "MIT",
+      "archived": false
+    },
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/grandtheftminecraft/"
+  },
+  {
+    "id": "gtacraft-gta5craft",
+    "title": "GtaCraft",
+    "host": "GTA V",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "gta5craft",
+      "url": "https://github.com/gta5craft"
+    },
+    "summary": "Experimental single-player GTA V Legacy ↔ Minecraft Java bridge. Natural terrain, vehicles, block destruction and bilingual setup.",
+    "links": {
+      "repo": "https://github.com/gta5craft/GtaCraft"
+    },
+    "github": {
+      "stars": 4,
+      "created": "2026-10-09",
+      "pushed": "2026-10-13",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-09",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/gtacraft-gta5craft/"
+  },
+  {
+    "id": "gta-v-enhanced-minecraft-steve-passthrough-utku6767",
+    "title": "GTA V Enhanced Minecraft Steve Passthrough",
+    "host": "GTA V",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "utku6767",
+      "url": "https://github.com/utku6767"
+    },
+    "summary": "A precompiled fork of the Minecraft x GTA V passthrough, adapted for GTA V Enhanced.",
+    "links": {
+      "repo": "https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough"
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-10-04",
+      "pushed": "2026-10-13",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2026-10-04",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/gta-v-enhanced-minecraft-steve-passthrough-utku6767/"
+  },
+  {
+    "id": "minecraft-gta5-passthrough-lowbacon",
+    "title": "Minecraft × GTA V Passthrough (LowBacon)",
+    "host": "GTA V",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "LowBacon",
+      "url": "https://github.com/LowBacon"
+    },
+    "summary": "Runs Minecraft Java Edition inside GTA V Enhanced Story Mode, with Steve, blocks, mobs, synced time and weather drawn into the game through ReShade.",
+    "links": {
+      "repo": "https://github.com/LowBacon/minecraft-gta5-passthrough"
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-11",
+      "pushed": "2026-10-12",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-11",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-gta5-passthrough-lowbacon/"
+  },
+  {
+    "id": "minecraft-ring",
+    "title": "Minecraft Ring",
+    "host": "Elden Ring",
+    "guest": [
+      "Minecraft: Java Edition 1.21.1"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "siddoff",
+      "url": "https://github.com/siddoff"
+    },
+    "summary": "Runs real Minecraft movement, building and combat inside Elden Ring through a Windows D3D12 bridge.",
+    "links": {
+      "repo": "https://github.com/siddoff/Minecraft-Ring",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Upstream Minecraft Crossover Bridge",
+          "url": "https://github.com/justbustin/minecraft-crossover-bridge"
+        }
+      ]
+    },
+    "github": {
+      "stars": 61,
+      "created": "2026-10-02",
+      "pushed": "2026-10-06",
+      "license": "MIT",
+      "archived": false
+    },
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-ring/"
+  },
+  {
+    "id": "minecraft-crossover-bridge",
+    "title": "Minecraft Crossover Bridge",
+    "host": "Elden Ring",
+    "guest": [
+      "Minecraft: Java Edition 1.21.1"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "justbustin",
+      "url": "https://github.com/justbustin"
+    },
+    "summary": "Runs real Minecraft Java 1.21.1 inside Monster Hunter: World or Elden Ring on an Apple Silicon Mac, with the Windows game in CrossOver and the two linked through shared memory.",
+    "links": {
+      "repo": "https://github.com/justbustin/minecraft-crossover-bridge",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 33,
+      "created": "2026-10-01",
+      "pushed": "2026-10-01",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-01",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-crossover-bridge/"
+  },
+  {
+    "id": "eldencraft",
+    "title": "EldenCraft",
+    "host": "Elden Ring",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "SocketByte",
+      "url": "https://github.com/SocketByte"
+    },
+    "summary": "Runs real Minecraft Java inside Elden Ring, composited into one frame with mining, building, the Nether and progression.",
+    "links": {
+      "repo": "https://github.com/SocketByte/EldenCraft",
+      "download": "https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.5",
+      "page": "https://www.nexusmods.com/eldenring/mods/11259",
+      "articles": [],
+      "extra": [
+        {
+          "label": "Inspired by Minecraft-Ring",
+          "url": "https://github.com/siddoff/Minecraft-Ring"
+        },
+        {
+          "label": "Inspired by minecraft-crossover-bridge",
+          "url": "https://github.com/justbustin/minecraft-crossover-bridge"
+        }
+      ]
+    },
+    "github": {
+      "stars": 15,
+      "created": "2026-10-06",
+      "pushed": "2026-10-11",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-06",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/eldencraft/"
+  },
+  {
+    "id": "minecraft-elden-ring-tobynjacobs",
+    "title": "Minecraft in Elden Ring",
+    "host": "Elden Ring",
+    "guest": [
+      "Minecraft"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "showcase",
+    "creator": {
+      "name": "TobynJacobs",
+      "url": null
+    },
+    "summary": "TobynJacobs’ footage shows Minecraft-style gameplay in Elden Ring; wider claims remain unconfirmed.",
+    "links": {
+      "repo": null,
+      "download": null,
+      "page": null,
+      "articles": [
+        "https://gurugamer.com/pc-console/steve-walks-the-lands-between-modder-ported-minecraft-into-elden-ring-27372",
+        "https://www.dexerto.com/minecraft/modder-recreates-all-of-minecraft-inside-elden-ring-with-1600-items-and-working-redstone-3413457/",
+        "https://www.tweaktown.com/news/113855/minecraft-runs-inside-elden-ring-as-modders-mash-up-entire-games/index.html"
+      ],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-09-29",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-elden-ring-tobynjacobs/"
+  },
+  {
+    "id": "minering-franguchico",
+    "title": "MineRing",
+    "host": "Elden Ring",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "franguchico",
+      "url": "https://github.com/franguchico"
+    },
+    "summary": "<a href=\"https://minering.franchico.com\"><img src=\"docs/img/banner.jpg\" alt=\"MineRing: Minecraft x Elden Ring\" width=\"820\"></a>",
+    "links": {
+      "repo": "https://github.com/franguchico/MineRing"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minering-franguchico/"
+  },
+  {
+    "id": "elden-craft-zhx4",
+    "title": "Elden-Craft (Minecraft Ring fork)",
+    "host": "Elden Ring",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "ZHX4",
+      "url": "https://github.com/ZHX4"
+    },
+    "summary": "**A Windows-focused experimental fork of Minecraft Ring by siddoff.**",
+    "links": {
+      "repo": "https://github.com/ZHX4/Elden-Craft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/elden-craft-zhx4/"
+  },
+  {
+    "id": "eldencraft-wargamereview-ship-it",
+    "title": "EldenCraft (wargamereview)",
+    "host": "Elden Ring",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "wargamereview-ship-it",
+      "url": "https://github.com/wargamereview-ship-it"
+    },
+    "summary": "**Minecraft survival, combat and building inside Elden Ring’s actual world.**",
+    "links": {
+      "repo": "https://github.com/wargamereview-ship-it/EldenCraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/eldencraft-wargamereview-ship-it/"
+  },
+  {
+    "id": "minepunk-duocor3",
+    "title": "Minepunk",
+    "host": "Cyberpunk 2077",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "Duocor3",
+      "url": "https://github.com/Duocor3"
+    },
+    "summary": "Runs real Minecraft Java inside Cyberpunk 2077: Steve replaces V, built blocks are solid, and ender pearls, TNT and the elytra work in Night City.",
+    "links": {
+      "repo": "https://github.com/Duocor3/minepunk"
+    },
+    "github": {
+      "stars": 3,
+      "created": "2026-10-03",
+      "pushed": "2026-10-03",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-03",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minepunk-duocor3/"
+  },
+  {
+    "id": "cyberblock-rodthegod2",
+    "title": "cyberblock",
+    "host": "Cyberpunk 2077",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "rodthegod2",
+      "url": "https://github.com/rodthegod2"
+    },
+    "summary": "Experimental work in progress: play Cyberpunk 2077 as a Minecraft player. Real Minecraft (Fabric) composited into Night City via a RED4ext plugin + ReShade add-on. Unofficial fan project.",
+    "links": {
+      "repo": "https://github.com/rodthegod2/cyberblock"
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-10-04",
+      "pushed": "2026-10-05",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-04",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/cyberblock-rodthegod2/"
+  },
+  {
+    "id": "cybercraft-itzbloxy",
+    "title": "CyberCraft",
+    "host": "Cyberpunk 2077",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "ItzBloxy",
+      "url": "https://github.com/ItzBloxy"
+    },
+    "summary": "Minecraft merged with Cyberpunk 2077",
+    "links": {
+      "repo": "https://github.com/ItzBloxy/CyberCraft"
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-13",
+      "pushed": "2026-10-13",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-13",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/cybercraft-itzbloxy/"
+  },
+  {
+    "id": "libertycraft",
+    "title": "LibertyCraft",
+    "host": "GTA IV",
+    "guest": [
+      "Minecraft: Java Edition 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "mrborghini",
+      "url": "https://github.com/mrborghini"
+    },
+    "summary": "Runs Minecraft movement, inventory and building inside GTA IV's Liberty City.",
+    "links": {
+      "repo": "https://github.com/mrborghini/libertycraft",
+      "download": "https://github.com/mrborghini/libertycraft/releases",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 3,
+      "created": "2026-10-03",
+      "pushed": "2026-10-10",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-03",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/libertycraft/"
+  },
+  {
+    "id": "minecraft-passthrough-iv",
+    "title": "Minecraft PassthroughIV",
+    "host": "GTA IV",
+    "guest": [
+      "Minecraft: Java Edition 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "Akatoshthe2nd",
+      "url": null
+    },
+    "summary": "Draws a real Minecraft Java session into GTA IV's Liberty City.",
+    "links": {
+      "repo": null,
+      "download": "https://www.nexusmods.com/gta4/mods/1498",
+      "page": "https://www.nexusmods.com/gta4/mods/1498",
+      "articles": [],
+      "extra": [
+        {
+          "label": "universal-modder (upstream example)",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2026-10-02",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-passthrough-iv/"
+  },
+  {
+    "id": "falloutcraft",
+    "title": "FalloutCraft",
+    "host": "Fallout 4",
+    "guest": [
+      "Minecraft: Java Edition 26.3 (Fabric)",
+      "Minecraft: Java Edition 1.21.1 (NeoForge)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "zeyvu",
+      "url": "https://github.com/zeyvu"
+    },
+    "summary": "Runs Minecraft movement, building, HUD and combat inside Fallout 4's Commonwealth.",
+    "links": {
+      "repo": "https://github.com/zeyvu/FalloutCraft",
+      "download": "https://github.com/zeyvu/FalloutCraft/releases/tag/v0.1.3",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 10,
+      "created": "2026-10-01",
+      "pushed": "2026-10-04",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-01",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/falloutcraft/"
+  },
+  {
+    "id": "f4craft-revitex01",
+    "title": "F4Craft",
+    "host": "Fallout 4",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "in-development",
+    "creator": {
+      "name": "ReviteX01",
+      "url": "https://github.com/ReviteX01"
+    },
+    "summary": "An early project to run Minecraft inside Fallout 4; the repository has no code or README yet.",
+    "links": {
+      "repo": "https://github.com/ReviteX01/F4Craft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/f4craft-revitex01/"
+  },
+  {
+    "id": "falloutcraft-proximalbeet",
+    "title": "FalloutCraft (proximalbeet)",
+    "host": "Fallout 4",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "proximalbeet",
+      "url": "https://github.com/proximalbeet"
+    },
+    "summary": "A Fallout 4 mod that adds Minecraft gameplay to the game, built with the universal-modder plugin for Claude Code.",
+    "links": {
+      "repo": "https://github.com/proximalbeet/FalloutCraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/falloutcraft-proximalbeet/"
+  },
+  {
+    "id": "new-vegascraft",
+    "title": "New VegasCraft",
+    "host": "Fallout: New Vegas",
+    "guest": [
+      "Minecraft: Java Edition 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "Davozh",
+      "url": "https://github.com/Davozh"
+    },
+    "summary": "Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave.",
+    "links": {
+      "repo": "https://github.com/Davozh/new-vegascraft",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-10-03",
+      "pushed": "2026-10-04",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-03",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/new-vegascraft/"
+  },
+  {
+    "id": "vegascraft-hanaka15",
+    "title": "VegasCraft (Hanaka15)",
+    "host": "Fallout: New Vegas",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "Hanaka15",
+      "url": "https://github.com/Hanaka15"
+    },
+    "summary": "Play Fallout: New Vegas as a Minecraft player, with Minecraft's movement, inventory, HUD, blocks and weapons inside the Mojave.",
+    "links": {
+      "repo": "https://github.com/Hanaka15/VegasCraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/vegascraft-hanaka15/"
+  },
+  {
+    "id": "vegascraft-benedettoscala",
+    "title": "VegasCraft (benedettoscala)",
+    "host": "Fallout: New Vegas",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "benedettoscala",
+      "url": "https://github.com/benedettoscala"
+    },
+    "summary": "Play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks, and combat. VegasCraft is an experimental Windows port inspired by [SkyCraft](https://github.com/chasmlol/SkyCraft), using a ",
+    "links": {
+      "repo": "https://github.com/benedettoscala/VegasCraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/vegascraft-benedettoscala/"
+  },
+  {
+    "id": "witchercraft",
+    "title": "WitcherCraft",
+    "host": "The Witcher 3",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "Wanesia",
+      "url": "https://github.com/Wanesia"
+    },
+    "summary": "Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside.",
+    "links": {
+      "repo": "https://github.com/Wanesia/WitcherCraft",
+      "download": "https://github.com/Wanesia/WitcherCraft/releases/tag/v0.1.0",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "SkyCraft (upstream framework)",
+          "url": "https://github.com/chasmlol/SkyCraft"
+        }
+      ]
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-10",
+      "pushed": "2026-10-11",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-10",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/witchercraft/"
+  },
+  {
+    "id": "rust-rewrite-mashup",
+    "title": "2010 Rust Rewrite Mashup",
+    "host": "Call of Duty: MW2",
+    "guest": [
+      "Skate 3",
+      "Minecraft"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "chasmlol",
+      "url": "https://github.com/chasmlol"
+    },
+    "summary": "Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world.",
+    "links": {
+      "repo": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+      "download": "https://github.com/chasmlol/2010-rust-rewrite-mashup/releases",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "IW4L upstream",
+          "url": "https://github.com/vladtrc/iw4L"
+        },
+        {
+          "label": "Creator's Discord (chasm server)",
+          "url": "https://discord.com/invite/ccFpNC26Ts"
+        }
+      ]
+    },
+    "github": {
+      "stars": 884,
+      "created": "2026-09-27",
+      "pushed": "2026-10-02",
+      "license": "Apache-2.0",
+      "archived": false
+    },
+    "first_shown": "2026-09-28",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/rust-rewrite-mashup/"
+  },
+  {
+    "id": "hycraft",
+    "title": "HyCraft",
+    "host": "Hytale",
+    "guest": [
+      "Minecraft: Java Edition 1.21.11"
+    ],
+    "direction": "minecraft-into",
+    "category": "crossplay",
+    "status": "released",
+    "creator": {
+      "name": "EdwardBelt",
+      "url": "https://github.com/EdwardBelt"
+    },
+    "summary": "Lets Minecraft players join Hytale servers and interact with their worlds.",
+    "links": {
+      "repo": "https://github.com/EdwardBelt/HyCraft",
+      "download": "https://github.com/EdwardBelt/HyCraft/releases/tag/v1.1.4",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 32,
+      "created": "2026-02-27",
+      "pushed": "2026-05-28",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-02-27",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/hycraft/"
+  },
+  {
+    "id": "cs-craft",
+    "title": "CS-Craft",
+    "host": "CS:GO (rewrite)",
+    "guest": [
+      "Minecraft 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "FrosttysBots / Frostty",
+      "url": "https://github.com/FrosttysBots"
+    },
+    "summary": "Adds a Minecraft Overworld/progression mode to a CS:GO Rust/Bevy rewrite.",
+    "links": {
+      "repo": "https://github.com/FrosttysBots/CS-Craft",
+      "download": "https://github.com/FrosttysBots/CS-Craft/releases/tag/v0.1.0",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 6,
+      "created": "2026-10-02",
+      "pushed": "2026-10-02",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2026-10-02",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/cs-craft/"
+  },
+  {
+    "id": "owcraft",
+    "title": "OWCraft",
+    "host": "Outer Wilds",
+    "guest": [
+      "Minecraft: Java Edition 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "Yaekai",
+      "url": "https://github.com/Yaekai"
+    },
+    "summary": "Runs real Minecraft movement, blocks and inventory on Outer Wilds planets.",
+    "links": {
+      "repo": "https://github.com/Yaekai/OWCraft",
+      "download": "https://github.com/Yaekai/OWCraft/releases/tag/v0.1.1",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 6,
+      "created": "2026-10-02",
+      "pushed": "2026-10-02",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-02",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/owcraft/"
+  },
+  {
+    "id": "valcraft",
+    "title": "ValCraft",
+    "host": "Valheim",
+    "guest": [
+      "Minecraft: Java Edition 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "LoAlCo",
+      "url": "https://github.com/LoAlCo"
+    },
+    "summary": "Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active.",
+    "links": {
+      "repo": "https://github.com/LoAlCo/ValCraft",
+      "download": "https://github.com/LoAlCo/ValCraft/releases/tag/v0.7.0",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 5,
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2026-09-30",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/valcraft/"
+  },
+  {
+    "id": "bo2-minecraft-zombies",
+    "title": "Minecraft Zombies (bo2mc)",
+    "host": "Call of Duty: MW2",
+    "guest": [
+      "Call of Duty: Black Ops II Zombies",
+      "Minecraft"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "DaffyDabz",
+      "url": "https://github.com/DaffyDabz"
+    },
+    "summary": "Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine.",
+    "links": {
+      "repo": "https://github.com/DaffyDabz/bo2-minecraft-zombies",
+      "download": "https://github.com/DaffyDabz/bo2-minecraft-zombies/releases/tag/v2026.10.08",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Upstream: 2010 Rust Rewrite Mashup",
+          "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup"
+        }
+      ]
+    },
+    "github": {
+      "stars": 5,
+      "created": "2026-10-05",
+      "pushed": "2026-10-08",
+      "license": "Apache-2.0",
+      "archived": false
+    },
+    "first_shown": "2026-10-05",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/bo2-minecraft-zombies/"
+  },
+  {
+    "id": "l4d2-minecraft",
+    "title": "L4D2 x Minecraft",
+    "host": "Left 4 Dead 2",
+    "guest": [
+      "Minecraft: Java Edition (Fabric)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "Rizen1322",
+      "url": "https://github.com/Rizen1322"
+    },
+    "summary": "Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op.",
+    "links": {
+      "repo": "https://github.com/Rizen1322/l4d2-minecraft",
+      "download": "https://github.com/Rizen1322/l4d2-minecraft/releases",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Universal Modder (template origin)",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        }
+      ]
+    },
+    "github": {
+      "stars": 3,
+      "created": "2026-10-09",
+      "pushed": "2026-10-13",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-09",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/l4d2-minecraft/"
+  },
+  {
+    "id": "peakcraft",
+    "title": "PeakCraft",
+    "host": "PEAK",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "aeironnsarmiento",
+      "url": "https://github.com/aeironnsarmiento"
+    },
+    "summary": "Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods.",
+    "links": {
+      "repo": "https://github.com/aeironnsarmiento/PeakCraft",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Upstream: SkyCraft",
+          "url": "https://github.com/chasmlol/SkyCraft"
+        }
+      ]
+    },
+    "github": {
+      "stars": 2,
+      "created": "2026-10-02",
+      "pushed": "2026-10-02",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-02",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/peakcraft/"
+  },
+  {
+    "id": "minecraft-hytale-crossplay-ssquadteam",
+    "title": "Minecraft ↔ Hytale crossplay (SSquadTeam)",
+    "host": "Hytale",
+    "guest": [
+      "Minecraft: Java Edition",
+      "Hytale"
+    ],
+    "direction": "minecraft-into",
+    "category": "crossplay",
+    "status": "code-only",
+    "creator": {
+      "name": "Sadat Sahib / iamcxv7 / SSquadTeam",
+      "url": "https://github.com/ssquadteam"
+    },
+    "summary": "Lets Minecraft and Hytale players share a synchronized Hytale-hosted world.",
+    "links": {
+      "repo": "https://github.com/ssquadteam/HytaleBridgeMod",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-01-19",
+      "pushed": "2026-09-01",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2026-01-19",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-hytale-crossplay-ssquadteam/"
+  },
+  {
+    "id": "killcraft",
+    "title": "Killcraft",
+    "host": "ULTRAKILL",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "goonsn",
+      "url": "https://github.com/goonsn"
+    },
+    "summary": "Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels.",
+    "links": {
+      "repo": "https://github.com/goonsn/Killcraft",
+      "download": "https://github.com/goonsn/Killcraft/releases/tag/v1.0.2",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-10-04",
+      "pushed": "2026-10-11",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-04",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/killcraft/"
+  },
+  {
+    "id": "subnauticraft",
+    "title": "Subnauticraft (Subnautica Link)",
+    "host": "Subnautica",
+    "guest": [
+      "Minecraft: Java Edition (Fabric)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "JasonNinja15",
+      "url": "https://github.com/JasonNinja15"
+    },
+    "summary": "Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer.",
+    "links": {
+      "repo": "https://github.com/JasonNinja15/Subnauticraft",
+      "download": "https://github.com/JasonNinja15/Subnauticraft/releases",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "SubCraft (separate project)",
+          "url": "https://github.com/FumperForrest/SubCraft"
+        }
+      ]
+    },
+    "github": {
+      "stars": 1,
+      "created": "2026-10-06",
+      "pushed": "2026-10-08",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-06",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/subnauticraft/"
+  },
+  {
+    "id": "halocraft",
+    "title": "Halocraft",
+    "host": "Halo MCC",
+    "guest": [
+      "Minecraft"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "InfernoPlus",
+      "url": null
+    },
+    "summary": "Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer.",
+    "links": {
+      "repo": null,
+      "download": "https://steamcommunity.com/sharedfiles/filedetails/?id=2899362333",
+      "page": "https://www.patreon.com/infernoplus/posts/halocraft-73930239",
+      "articles": [],
+      "extra": [
+        {
+          "label": "Official Halo spotlight",
+          "url": "https://www.halowaypoint.com/news/halo-mcc-modtacular-2"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2022-10-29",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/halocraft/"
+  },
+  {
+    "id": "minecraft-sm64",
+    "title": "Minecraft voxel engine inside Super Mario 64",
+    "host": "Super Mario 64",
+    "guest": [
+      "Minecraft-style voxel/world systems"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "showcase",
+    "creator": {
+      "name": "Arthurtilly",
+      "url": null
+    },
+    "summary": "Adds Minecraft-style terrain, blocks and lighting to Super Mario 64.",
+    "links": {
+      "repo": null,
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Creator GitHub",
+          "url": "https://github.com/arthurtilly"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2025-05-19",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-sm64/"
+  },
+  {
+    "id": "minecraft-classic-hytale",
+    "title": "Minecraft Classic 0.30 inside Hytale",
+    "host": "Hytale",
+    "guest": [
+      "Minecraft Classic 0.30"
+    ],
+    "direction": "minecraft-into",
+    "category": "crossplay",
+    "status": "showcase",
+    "creator": {
+      "name": "Sadat Sahib / iamcxv7 / SSquadTeam",
+      "url": null
+    },
+    "summary": "Shows Minecraft Classic running on Hytale’s in-game world-map screen.",
+    "links": {
+      "repo": null,
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-01-17",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-classic-hytale/"
+  },
+  {
+    "id": "minecraft-x-half-life",
+    "title": "Minecraft X Half-Life",
+    "host": "Half-Life",
+    "guest": [
+      "Minecraft: Java Edition 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "SawyerTheNerd",
+      "url": "https://github.com/SawyerTheNerd"
+    },
+    "summary": "Ports SkyCraft's Minecraft passthrough model to Half-Life.",
+    "links": {
+      "repo": "https://github.com/SawyerTheNerd/Minecraft-X-HalfLife",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-03",
+      "pushed": "2026-10-03",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2026-10-03",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-x-half-life/"
+  },
+  {
+    "id": "wowcraft",
+    "title": "WowCraft — Minecraft inside World of Warcraft",
+    "host": "World of Warcraft",
+    "guest": [
+      "Minecraft: Java Edition 26.3"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "over",
+      "url": "https://github.com/over825hp"
+    },
+    "summary": "Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1.",
+    "links": {
+      "repo": null,
+      "download": "https://github.com/over825hp/wowcraft/releases/tag/v0.1.1",
+      "page": "https://github.com/over825hp/wowcraft",
+      "articles": [],
+      "extra": [
+        {
+          "label": "benilla upstream",
+          "url": "https://github.com/samwhosung/benilla"
+        },
+        {
+          "label": "Creator video: release and multiplayer download (2026-10-05)",
+          "url": "https://www.youtube.com/watch?v=dKZN2nKc4bc"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2026-10-02",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/wowcraft/"
+  },
+  {
+    "id": "subcraft",
+    "title": "SubCraft",
+    "host": "Subnautica",
+    "guest": [
+      "Minecraft: Java Edition 1.21.1"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "FumperForrest",
+      "url": "https://github.com/FumperForrest"
+    },
+    "summary": "Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering.",
+    "links": {
+      "repo": "https://github.com/FumperForrest/SubCraft",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-01",
+      "pushed": "2026-10-03",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-01",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/subcraft/"
+  },
+  {
+    "id": "minebonk",
+    "title": "Minebonk",
+    "host": "Megabonk",
+    "guest": [
+      "Minecraft systems"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "MGuibas",
+      "url": "https://github.com/MGuibas"
+    },
+    "summary": "Rebuilds Minecraft-style combat, inventory, mobs and bosses natively inside Megabonk.",
+    "links": {
+      "repo": "https://github.com/MGuibas/Minebonk",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-02",
+      "pushed": "2026-10-02",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-02",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minebonk/"
+  },
+  {
+    "id": "requiem-x-minecraft",
+    "title": "Requiem x Minecraft — Building and Survival",
+    "host": "Resident Evil Requiem",
+    "guest": [
+      "Minecraft-inspired mechanics"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "removed",
+    "creator": {
+      "name": "Polverrati",
+      "url": null
+    },
+    "summary": "Adds Minecraft-style building, a hotbar and a survival HUD to Resident Evil Requiem, so you can place blocks and build barricades inside the game's own environments.",
+    "links": {
+      "repo": null,
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-10-04",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/requiem-x-minecraft/"
+  },
+  {
+    "id": "craftmsc",
+    "title": "CraftMSC",
+    "host": "My Summer Car",
+    "guest": [
+      "Minecraft: Java Edition 1.12.2 (Forge)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "Morri (Nexus uploader morrics)",
+      "url": null
+    },
+    "summary": "Runs real Minecraft 1.12.2 next to My Summer Car and renders it from the game's camera, so Minecraft blocks are solid for you, cars and NPCs.",
+    "links": {
+      "repo": null,
+      "download": "https://www.nexusmods.com/mysummercar/mods/12619",
+      "page": "https://www.nexusmods.com/mysummercar/mods/12619",
+      "articles": [],
+      "extra": [
+        {
+          "label": "universal-modder (upstream)",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2026-10-06",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/craftmsc/"
+  },
+  {
+    "id": "minecraft-x-saints-row-3",
+    "title": "Minecraft X Saints Row: The Third Remastered",
+    "host": "Saints Row: The Third",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "SawyerTheNerd",
+      "url": "https://github.com/SawyerTheNerd"
+    },
+    "summary": "Runs real Minecraft inside Saints Row: The Third Remastered, with building, TNT and combat in Stilwater.",
+    "links": {
+      "repo": "https://github.com/SawyerTheNerd/Minecraft-X-SaintsRow3Remastered",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "universal-modder (upstream example)",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        }
+      ]
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-05",
+      "pushed": "2026-10-05",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-05",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-x-saints-row-3/"
+  },
+  {
+    "id": "halfcraft",
+    "title": "Halfcraft (Minecraft in Half Sword)",
+    "host": "Half Sword",
+    "guest": [
+      "Minecraft: Java Edition 26.3 (Fabric)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "Deez-coder",
+      "url": "https://github.com/Deez-coder"
+    },
+    "summary": "Puts real Minecraft blocks, mobs and combat into Half Sword's arenas.",
+    "links": {
+      "repo": "https://github.com/Deez-coder/halfcraft",
+      "download": "https://github.com/Deez-coder/halfcraft/releases",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Universal Modder",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        }
+      ]
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-10",
+      "pushed": "2026-10-13",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2026-10-10",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/halfcraft/"
+  },
+  {
+    "id": "lethalcraft",
+    "title": "LethalCraft",
+    "host": "Lethal Company",
+    "guest": [
+      "Minecraft: Java Edition"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "released",
+    "creator": {
+      "name": "ThatGuyTHD",
+      "url": "https://github.com/ThatGuyTHD"
+    },
+    "summary": "Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op.",
+    "links": {
+      "repo": "https://github.com/ThatGuyTHD/LethalCraft",
+      "download": "https://github.com/ThatGuyTHD/LethalCraft/releases/tag/v0.2.4",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Upstream: SkyCraft",
+          "url": "https://github.com/chasmlol/SkyCraft"
+        }
+      ]
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-03",
+      "pushed": "2026-10-04",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-03",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/lethalcraft/"
+  },
+  {
+    "id": "halfcraft-half-life",
+    "title": "HalfCraft (Minecraft in Half-Life)",
+    "host": "Half-Life",
+    "guest": [
+      "Minecraft: Java Edition (Fabric)"
+    ],
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "code-only",
+    "creator": {
+      "name": "sogutemir",
+      "url": "https://github.com/sogutemir"
+    },
+    "summary": "Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release.",
+    "links": {
+      "repo": "https://github.com/sogutemir/HalfCraft",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Upstream SkyCraft",
+          "url": "https://github.com/chasmlol/SkyCraft"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2026-09-30",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/halfcraft-half-life/"
+  },
+  {
+    "id": "bendy-minecraft-mashup",
+    "title": "Bendy x Minecraft",
+    "host": "Bendy and the Ink Machine",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "in-development",
+    "creator": {
+      "name": "MONKEPLAYA",
+      "url": "https://github.com/MONKEPLAYA"
+    },
+    "summary": "An early prototype mod that adds a Minecraft-style inventory, crafting, placing and mining inside Bendy and the Ink Machine, using textures from your own Minecraft install.",
+    "links": {
+      "repo": "https://github.com/MONKEPLAYA/bendy-minecraft-mashup"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/bendy-minecraft-mashup/"
+  },
+  {
+    "id": "palcraft-eqqx0",
+    "title": "PalCraft",
+    "host": "Palworld",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "EQQX0",
+      "url": "https://github.com/EQQX0"
+    },
+    "summary": "Play Palworld as Steve: Minecraft runs alongside Palworld and draws its blocks, hand and hotbar into Palworld's frame, so you can build, dig and fight Pals with Minecraft controls.",
+    "links": {
+      "repo": "https://github.com/EQQX0/PalCraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/palcraft-eqqx0/"
+  },
+  {
+    "id": "stellarblade-minecraft-mothersphere",
+    "title": "Stellar Blade × Minecraft",
+    "host": "Stellar Blade",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "MotherSphere",
+      "url": "https://github.com/MotherSphere"
+    },
+    "summary": "Stellar Blade × Minecraft lets you walk, fight and build in a Minecraft world as EVE. Stellar Blade runs alongside, under Proton on Linux or natively on Windows, and simulates her: her controls, anima",
+    "links": {
+      "repo": "https://github.com/MotherSphere/stellarblade-minecraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/stellarblade-minecraft-mothersphere/"
+  },
+  {
+    "id": "miside-x-minecraft-mashup-v1-0-0-gorikla34",
+    "title": "MiSide × Minecraft",
+    "host": "MiSide",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "Gorikla34",
+      "url": "https://github.com/Gorikla34"
+    },
+    "summary": "Play as a Minecraft-style builder in Mita's house (MiSide Demo is the host game).",
+    "links": {
+      "repo": "https://github.com/Gorikla34/MiSide-x-Minecraft-Mashup-v1.0.0"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/miside-x-minecraft-mashup-v1-0-0-gorikla34/"
+  },
+  {
+    "id": "minecraft-in-gta3",
+    "title": "Minecraft in GTA III",
+    "host": "GTA III",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "akilex02",
+      "url": "https://github.com/akilex02"
+    },
+    "summary": "Runs a Minecraft Fabric mod beside the re3 GTA III source port through shared memory, so Steve walks Liberty City and Minecraft blocks are drawn in the city.",
+    "links": {
+      "repo": "https://github.com/akilex02/minecraft-in-gta3"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-in-gta3/"
+  },
+  {
+    "id": "botwcraft-fabric",
+    "title": "BOTW x Minecraft bridge",
+    "host": "The Legend of Zelda: Breath of the Wild",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "arskyandre",
+      "url": "https://github.com/arskyandre"
+    },
+    "summary": "Play Breath of the Wild as the Minecraft player: a real Minecraft Java client runs beside the game in Cemu and owns movement, camera, inventory and building.",
+    "links": {
+      "repo": "https://github.com/arskyandre/botwcraft-fabric"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/botwcraft-fabric/"
+  },
+  {
+    "id": "grovecraft",
+    "title": "GroveCraft",
+    "host": "GTA San Andreas",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "Axel12Q",
+      "url": "https://github.com/Axel12Q"
+    },
+    "summary": "Runs Minecraft Java next to GTA San Andreas and draws its blocks, mobs and HUD in the city, with building, mining, crafting and hunger while CJ keeps his cars and missions.",
+    "links": {
+      "repo": "https://github.com/Axel12Q/GroveCraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/grovecraft/"
+  },
+  {
+    "id": "sbcraft",
+    "title": "SBCraft",
+    "host": "FNAF: Security Breach",
+    "direction": "minecraft-into",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "pebbleford",
+      "url": "https://github.com/pebbleford"
+    },
+    "summary": "Runs real Minecraft Java next to Five Nights at Freddy's: Security Breach and blends its picture in, so you build in the Pizzaplex with Minecraft's hand and hotbar.",
+    "links": {
+      "repo": "https://github.com/pebbleford/sbcraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/sbcraft/"
+  },
+  {
+    "id": "passthrough-mod-toolkit",
+    "title": "passthrough-mod-toolkit",
+    "host": "Skyrim",
+    "guest": [
+      "Any guest game (samples target Minecraft: Java Edition)"
+    ],
+    "direction": "minecraft-into",
+    "category": "tool",
+    "status": "code-only",
+    "creator": {
+      "name": "Orinkle",
+      "url": "https://github.com/Orinkle"
+    },
+    "summary": "Generates the shared-memory bridge skeleton for two-process \"passthrough\" game mashups from one schema.",
+    "links": {
+      "repo": "https://github.com/Orinkle/passthrough-mod-toolkit",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Honest limits",
+          "url": "https://github.com/Orinkle/passthrough-mod-toolkit#honest-limits"
+        },
+        {
+          "label": "30-second stub demo",
+          "url": "https://github.com/Orinkle/passthrough-mod-toolkit#30-second-demo"
+        }
+      ]
+    },
+    "github": {
+      "stars": 2,
+      "created": "2026-10-08",
+      "pushed": "2026-10-08",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-08",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/passthrough-mod-toolkit/"
+  },
+  {
+    "id": "skycraft-item-drops",
+    "title": "SkyCraft Item Drops",
+    "host": "Skyrim",
+    "direction": "tooling",
+    "category": "tool",
+    "status": "unreviewed",
+    "creator": {
+      "name": "scringleflump",
+      "url": "https://github.com/scringleflump"
+    },
+    "summary": "An add-on for SkyCraft that makes Skyrim enemies drop fitting Minecraft loot, such as rotten flesh from undead and redstone from storm atronachs.",
+    "links": {
+      "repo": "https://github.com/scringleflump/Skycraft-item-drops"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/skycraft-item-drops/"
+  },
+  {
+    "id": "universal-modder",
+    "title": "Universal Modder",
+    "host": "Any game",
+    "direction": "tooling",
+    "category": "tool",
+    "status": "code-only",
+    "creator": {
+      "name": "rehan-remade",
+      "url": "https://github.com/rehan-remade"
+    },
+    "summary": "Claude Code skills/tools that mod almost any PC game; ships a minecraft-gta5-passthrough example.",
+    "links": {
+      "repo": "https://github.com/rehan-remade/universal-modder"
+    },
+    "github": {
+      "stars": 7609,
+      "created": "2026-09-30",
+      "pushed": "2026-10-14",
+      "license": "MIT",
+      "archived": false
+    },
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/universal-modder/"
+  },
+  {
+    "id": "skycraft-deck",
+    "title": "SkyCraft-Deck",
+    "host": "Any game",
+    "direction": "tooling",
+    "category": "tool",
+    "status": "code-only",
+    "creator": {
+      "name": "chasesfloorboard",
+      "url": "https://github.com/chasesfloorboard"
+    },
+    "summary": "An installer that sets up SkyCraft on a Steam Deck or any Linux PC running Skyrim Special Edition through Proton, without a mod manager.",
+    "links": {
+      "repo": "https://github.com/chasesfloorboard/SkyCraft-Deck"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/skycraft-deck/"
+  },
+  {
+    "id": "hellgate-doom-portal",
+    "title": "HellGate: Doom Portal",
+    "host": "Minecraft: Java Edition 1.20.4",
+    "guest": [
+      "DOOM II"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "fate_worshipper",
+      "url": null
+    },
+    "summary": "Adds a Nether-style portal that opens a playable Doom II inside Minecraft, with your Doom progress kept when you return.",
+    "links": {
+      "repo": null,
+      "download": "https://www.curseforge.com/minecraft/mc-mods/project-1428983",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-01-14",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/hellgate-doom-portal/"
+  },
+  {
+    "id": "nucledoom",
+    "title": "NucleDoom",
+    "host": "Minecraft: Java Edition",
+    "guest": [
+      "DOOM (1993)",
+      "Freedoom"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Patbox",
+      "url": "https://github.com/Patbox"
+    },
+    "summary": "Runs DOOM inside Minecraft with controls and sound.",
+    "links": {
+      "repo": "https://github.com/Patbox/nucledoom",
+      "download": "https://modrinth.com/mod/nucledoom",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 9,
+      "created": "2025-03-29",
+      "pushed": "2026-09-29",
+      "license": "NOASSERTION",
+      "archived": false
+    },
+    "first_shown": "2025-03-29",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/nucledoom/"
+  },
+  {
+    "id": "wasmcraft",
+    "title": "Wasmcraft game demos",
+    "host": "Minecraft: Java Edition",
+    "guest": [
+      "DOOM (1993)",
+      "Celeste Classic",
+      "Minecraft 4k",
+      "Super Mario Bros.",
+      "Pong"
+    ],
+    "direction": "into-minecraft",
+    "status": "code-only",
+    "creator": {
+      "name": "SuperTails",
+      "url": "https://github.com/SuperTails"
+    },
+    "summary": "Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft.",
+    "links": {
+      "repo": "https://github.com/SuperTails/wasmcraft2",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 162,
+      "created": "2022-03-09",
+      "pushed": "2023-05-07",
+      "license": "Apache-2.0",
+      "archived": false
+    },
+    "first_shown": "2022-03-09",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/wasmcraft/"
+  },
+  {
+    "id": "dead-by-daylight",
+    "title": "Dead by Daylight Add-On (Zero Squad)",
+    "host": "Minecraft: Bedrock Edition",
+    "guest": [
+      "Dead by Daylight"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Zero Squad / MidoriyaMC",
+      "url": null
+    },
+    "summary": "Recreates Dead by Daylight’s generators, chases, traps and survivor systems in Minecraft Bedrock.",
+    "links": {
+      "repo": null,
+      "download": "https://www.curseforge.com/minecraft-bedrock/addons/dead-by-daylight",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-08",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/dead-by-daylight/"
+  },
+  {
+    "id": "arcade-mod-reloaded",
+    "title": "Arcade Mod Reloaded",
+    "host": "Minecraft: Java Edition 1.20.1",
+    "guest": [
+      "Tetris",
+      "Pac-Man",
+      "Pong",
+      "Snake",
+      "Space Invaders",
+      "Donkey Kong"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Bay4lly; original mod by SuperHB",
+      "url": null
+    },
+    "summary": "Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft.",
+    "links": {
+      "repo": "https://github.com/Bay4lly/ArcadeMod",
+      "download": "https://www.curseforge.com/minecraft/mc-mods/arcade-mod-reloaded",
+      "page": "https://modrinth.com/mod/arcade-mod-reloaded",
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-05-26",
+      "pushed": "2026-05-26",
+      "license": "GPL-3.0",
+      "archived": false
+    },
+    "first_shown": "2026-05-25",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/arcade-mod-reloaded/"
+  },
+  {
+    "id": "ocarina-of-time",
+    "title": "Ocarina of Time in Minecraft",
+    "host": "Minecraft",
+    "guest": [
+      "The Legend of Zelda: Ocarina of Time"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Rivero",
+      "url": null
+    },
+    "summary": "Recreates Zelda: Ocarina of Time in Minecraft, with its story, bosses, quests and items.",
+    "links": {
+      "repo": null,
+      "download": "https://rivero7462.itch.io/ocarina-of-time-in-minecraft",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2020-11-28",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/ocarina-of-time/"
+  },
+  {
+    "id": "pokemon-red",
+    "title": "Pokémon Red in Minecraft",
+    "host": "Minecraft: Java Edition 1.11.2",
+    "guest": [
+      "Pokémon Red"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "MrSquishyYT / Mr. Squishy",
+      "url": null
+    },
+    "summary": "Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft.",
+    "links": {
+      "repo": null,
+      "download": "https://www.curseforge.com/minecraft/worlds/pokemon-red",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2017-03-11",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/pokemon-red/"
+  },
+  {
+    "id": "project-inception",
+    "title": "Project Inception",
+    "host": "Minecraft: Java Edition 1.16.x",
+    "guest": [
+      "Minecraft"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Arc-blroth",
+      "url": "https://github.com/Arc-blroth"
+    },
+    "summary": "Runs a playable second Minecraft game on a screen inside Minecraft.",
+    "links": {
+      "repo": "https://github.com/Arc-blroth/ProjectInception",
+      "download": "https://github.com/Arc-blroth/ProjectInception/releases/tag/v1.3.2%2Bbeta.1",
+      "page": "https://www.curseforge.com/minecraft/mc-mods/project-inception",
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 11,
+      "created": "2020-08-08",
+      "pushed": "2020-10-24",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2020-08-08",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/project-inception/"
+  },
+  {
+    "id": "latte-doom",
+    "title": "Latte Doom",
+    "host": "Minecraft: Java Edition 26.2",
+    "guest": [
+      "DOOM"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "blackwithersteve",
+      "url": null
+    },
+    "summary": "Runs DOOM inside Minecraft using the Mocha Doom engine.",
+    "links": {
+      "repo": null,
+      "download": "https://www.curseforge.com/minecraft/mc-mods/latte-doom",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-08-07",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/latte-doom/"
+  },
+  {
+    "id": "hytale2mc",
+    "title": "hytale2mc",
+    "host": "Hytale",
+    "guest": [
+      "Minecraft: Java Edition 1.21.11",
+      "Hytale"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "alskea",
+      "url": "https://github.com/alskea"
+    },
+    "summary": "Lets Minecraft and Hytale players join the same synchronized cross-game minigames.",
+    "links": {
+      "repo": "https://github.com/alskea/hytale2mc",
+      "download": null,
+      "page": "https://hytale2mc.com/",
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 60,
+      "created": "2026-02-03",
+      "pushed": "2026-02-03",
+      "license": "GPL-3.0",
+      "archived": false
+    },
+    "first_shown": "2026-02-03",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/hytale2mc/"
+  },
+  {
+    "id": "crossplayproject",
+    "title": "CrossplayProject — Minecraft ↔ Roblox",
+    "host": "Linked Minecraft server and Roblox experience",
+    "guest": [
+      "Minecraft",
+      "Roblox"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Atmerek and contributors",
+      "url": null
+    },
+    "summary": "Links Minecraft and Roblox so players, blocks and chat synchronize between both games.",
+    "links": {
+      "repo": "https://github.com/Atmerek/CrossplayProject",
+      "download": "https://github.com/Atmerek/CrossplayProject/releases/tag/v1.3",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 37,
+      "created": "2024-06-29",
+      "pushed": "2024-11-30",
+      "license": "GPL-3.0",
+      "archived": true
+    },
+    "first_shown": "2024-06-29",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/crossplayproject/"
+  },
+  {
+    "id": "ccboy",
+    "title": "ccboy — Game Boy in Minecraft",
+    "host": "Minecraft: Java Edition with ComputerCraft / CC:Tweaked",
+    "guest": [
+      "Game Boy / Game Boy Color software"
+    ],
+    "direction": "into-minecraft",
+    "status": "code-only",
+    "creator": {
+      "name": "amatheo",
+      "url": null
+    },
+    "summary": "Streams Game Boy gameplay from an external emulator to ComputerCraft monitors in Minecraft.",
+    "links": {
+      "repo": "https://github.com/amatheo/ccboy",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 1,
+      "created": "2025-09-15",
+      "pushed": "2025-09-15",
+      "license": "AGPL-3.0",
+      "archived": false
+    },
+    "first_shown": "2025-09-15",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/ccboy/"
+  },
+  {
+    "id": "crash-bandicoot-remake",
+    "title": "Minecraft, but It's Crash Bandicoot (Remake)",
+    "host": "Minecraft: Java Edition",
+    "guest": [
+      "Crash Bandicoot (1996)"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "OfficialTCK",
+      "url": null
+    },
+    "summary": "Recreates two Crash Bandicoot levels with custom gameplay in Minecraft.",
+    "links": {
+      "repo": null,
+      "download": "https://www.curseforge.com/minecraft/worlds/minecraft-but-its-crash-bandicoot",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2025-06-20",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/crash-bandicoot-remake/"
+  },
+  {
+    "id": "good-enough-game-integration",
+    "title": "Good Enough Game Integration (GEGI)",
+    "host": "Minecraft: Java Edition",
+    "guest": [
+      "itch.io web games",
+      "Newgrounds web games"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Pr1nted",
+      "url": "https://github.com/Pr1nted"
+    },
+    "summary": "Plays itch.io and Newgrounds web games interactively inside Minecraft through an embedded Chromium view.",
+    "links": {
+      "repo": "https://github.com/Pr1nted/GEGI",
+      "download": "https://www.curseforge.com/minecraft/mc-mods/gegi",
+      "page": "https://www.curseforge.com/minecraft/mc-mods/gegi",
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 2,
+      "created": "2026-09-14",
+      "pushed": "2026-09-14",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-09-14",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/good-enough-game-integration/"
+  },
+  {
+    "id": "chanyoris",
+    "title": "Chanyoris",
+    "host": "Minecraft: Java Edition servers",
+    "guest": [
+      "Chanyoris (original block-puzzle game)"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Hatune",
+      "url": "https://modrinth.com/user/Hatune"
+    },
+    "summary": "Runs a full competitive falling-block puzzle game inside a Minecraft map item.",
+    "links": {
+      "repo": null,
+      "download": "https://modrinth.com/plugin/chanyoris/version/JqYvDqop",
+      "page": "https://modrinth.com/plugin/chanyoris",
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/chanyoris/"
+  },
+  {
+    "id": "retro64",
+    "title": "Retro64",
+    "host": "Minecraft: Java Edition (Forge 1.20.1 and below; NeoForge 1.21.1+)",
+    "guest": [
+      "Super Mario 64"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "dylanpdx",
+      "url": null
+    },
+    "summary": "Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world.",
+    "links": {
+      "repo": "https://github.com/Retro64Mod/Retro64Mod",
+      "download": "https://github.com/Retro64Mod/Retro64Mod/releases",
+      "page": "https://retro64mod.github.io/",
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 167,
+      "created": "2022-03-14",
+      "pushed": "2026-09-27",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2022-03-16",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/retro64/"
+  },
+  {
+    "id": "minecraft-in-minecraft-chungus-2",
+    "title": "Minecraft in Minecraft (CHUNGUS 2 redstone computer)",
+    "host": "Minecraft: Java Edition (redstone, via MCHPRS)",
+    "guest": [
+      "Minecraft (miniature reimplementation)"
+    ],
+    "direction": "into-minecraft",
+    "status": "code-only",
+    "creator": {
+      "name": "sammyuri, with Uwerta, StackDoubleFlow and others",
+      "url": null
+    },
+    "summary": "A playable miniature Minecraft running on a redstone computer built inside Minecraft.",
+    "links": {
+      "repo": "https://github.com/sammyuri/minecraft",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "CHUNGUS 2 assembler (MIT)",
+          "url": "https://github.com/sammyuri/chungus-2-assembler"
+        }
+      ]
+    },
+    "github": {
+      "stars": 235,
+      "created": "2022-04-28",
+      "pushed": "2022-08-30",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2022-09-06",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraft-in-minecraft-chungus-2/"
+  },
+  {
+    "id": "classic64",
+    "title": "Classic64 — Mario in ClassiCube",
+    "host": "ClassiCube (Minecraft Classic-compatible client)",
+    "guest": [
+      "Super Mario 64"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Headshotnoby (headshot2017)",
+      "url": "https://github.com/headshot2017"
+    },
+    "summary": "A ClassiCube plugin that adds a playable Super Mario 64 Mario to Minecraft Classic-style worlds.",
+    "links": {
+      "repo": "https://github.com/headshot2017/Classic64",
+      "download": "https://github.com/headshot2017/Classic64/releases/tag/v1.2",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "ClassiCube",
+          "url": "https://github.com/ClassiCube/ClassiCube"
+        }
+      ]
+    },
+    "github": {
+      "stars": 23,
+      "created": "2022-08-17",
+      "pushed": "2026-09-13",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2022-08-17",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/classic64/"
+  },
+  {
+    "id": "minecraftnes",
+    "title": "MinecraftNES",
+    "host": "Minecraft: Java Edition 1.16 (vanilla resource pack)",
+    "guest": [
+      "NES games"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Suso (5uso)",
+      "url": "https://github.com/5uso"
+    },
+    "summary": "A NES emulator built entirely from vanilla Minecraft resource-pack shaders.",
+    "links": {
+      "repo": "https://github.com/5uso/MinecraftNES",
+      "download": "https://github.com/5uso/MinecraftNES/releases/tag/1.0.0",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 17,
+      "created": "2020-09-22",
+      "pushed": "2020-09-22",
+      "license": null,
+      "archived": false
+    },
+    "first_shown": "2020-09-22",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minecraftnes/"
+  },
+  {
+    "id": "vm-computers",
+    "title": "VM Computers",
+    "host": "Minecraft: Java Edition (Fabric 1.15–1.16)",
+    "guest": [
+      "x86 operating systems and their games (e.g. DOS Doom) via VirtualBox"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Delta2Force",
+      "url": "https://github.com/Delta2Force"
+    },
+    "summary": "Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included.",
+    "links": {
+      "repo": "https://github.com/Delta2Force/MCVmComputers",
+      "download": "https://www.curseforge.com/minecraft/mc-mods/vm-computers",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "PCGamesN coverage (Doom on an in-game PC)",
+          "url": "https://www.pcgamesn.com/minecraft/virtual-pc-mod-doom"
+        }
+      ]
+    },
+    "github": {
+      "stars": 528,
+      "created": "2020-06-04",
+      "pushed": "2024-07-10",
+      "license": "NOASSERTION",
+      "archived": true
+    },
+    "first_shown": "2020-06-04",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/vm-computers/"
+  },
+  {
+    "id": "juni-emu",
+    "title": "Juni Emu — GBA in Minecraft",
+    "host": "Minecraft: Java Edition 1.20.1–1.20.6 (Forge)",
+    "guest": [
+      "Game Boy Advance games"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "JuniperBear",
+      "url": null
+    },
+    "summary": "A Forge mod that plays Game Boy Advance cartridges inside Minecraft, found in generated game stores.",
+    "links": {
+      "repo": null,
+      "download": "https://modrinth.com/mod/juni-emu",
+      "page": "https://modrinth.com/mod/juni-emu",
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-05-25",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/juni-emu/"
+  },
+  {
+    "id": "ultracraft",
+    "title": "Ultracraft",
+    "host": "Minecraft: Java Edition",
+    "guest": [
+      "ULTRAKILL"
+    ],
+    "direction": "into-minecraft",
+    "status": "removed",
+    "creator": {
+      "name": "alfr0762",
+      "url": "https://github.com/alfr0762"
+    },
+    "summary": "Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window.",
+    "links": {
+      "repo": null,
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-10-04",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/ultracraft/"
+  },
+  {
+    "id": "mgbridge",
+    "title": "MGBridge (Minecraft and Garry's Mod)",
+    "host": "Minecraft: Java Edition",
+    "guest": [
+      "Garry's Mod"
+    ],
+    "direction": "into-minecraft",
+    "status": "code-only",
+    "creator": {
+      "name": "thecreeez",
+      "url": "https://github.com/thecreeez"
+    },
+    "summary": "Historical bridge that lets friends play Minecraft and Garry's Mod at the same time in a linked room.",
+    "links": {
+      "repo": "https://github.com/thecreeez/MGBridge",
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Garry's Mod side by ScientificWays",
+          "url": "https://github.com/ScientificWays/gmod-minecraft-bridge"
+        }
+      ]
+    },
+    "github": {
+      "stars": 10,
+      "created": "2023-04-15",
+      "pushed": "2024-06-18",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2023-04-15",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/mgbridge/"
+  },
+  {
+    "id": "fortresscraft",
+    "title": "FortressCraft (FortCraft)",
+    "host": "Minecraft: Java Edition 26.3",
+    "guest": [
+      "Team Fortress 2"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "VVRLD",
+      "url": "https://github.com/VVRLD"
+    },
+    "summary": "Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs.",
+    "links": {
+      "repo": "https://github.com/VVRLD/FortressCraft",
+      "download": "https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.8",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "Source SDK 2013 (Valve)",
+          "url": "https://github.com/ValveSoftware/source-sdk-2013"
+        }
+      ]
+    },
+    "github": {
+      "stars": 24,
+      "created": "2026-10-06",
+      "pushed": "2026-10-13",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-06",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/fortresscraft/"
+  },
+  {
+    "id": "mario64-in-minecraft",
+    "title": "Mario 64 in Minecraft (Zckyy)",
+    "host": "Minecraft: Java Edition 1.21.4",
+    "guest": [
+      "Super Mario 64"
+    ],
+    "direction": "into-minecraft",
+    "status": "removed",
+    "creator": {
+      "name": "Zckyy",
+      "url": "https://github.com/Zckyy"
+    },
+    "summary": "Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks.",
+    "links": {
+      "repo": null,
+      "download": null,
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "libsm64",
+          "url": "https://github.com/libsm64/libsm64"
+        },
+        {
+          "label": "n64decomp/sm64",
+          "url": "https://github.com/n64decomp/sm64"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2026-10-01",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/mario64-in-minecraft/"
+  },
+  {
+    "id": "bnes-fork",
+    "title": "BNes Fork (NES on Minecraft servers)",
+    "host": "Minecraft: Java Edition (Paper 1.21.1 server)",
+    "guest": [
+      "NES games (via an embedded NES emulator)"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Aruvelut-123",
+      "url": "https://github.com/Aruvelut-123"
+    },
+    "summary": "Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio.",
+    "links": {
+      "repo": "https://github.com/Aruvelut-123/BNes-Fork",
+      "download": "https://github.com/Aruvelut-123/BNes-Fork/releases/tag/1.2.0",
+      "page": null,
+      "articles": [],
+      "extra": [
+        {
+          "label": "MoeWhite19/BNes (original)",
+          "url": "https://github.com/MoeWhite19/BNes"
+        },
+        {
+          "label": "Nestalgia",
+          "url": "https://github.com/tiagohm/nestalgia"
+        }
+      ]
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-07-21",
+      "pushed": "2026-07-22",
+      "license": "GPL-3.0",
+      "archived": false
+    },
+    "first_shown": "2026-07-21",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/bnes-fork/"
+  },
+  {
+    "id": "minepeak",
+    "title": "MinePeak",
+    "host": "Minecraft: Java Edition 26.2 (Fabric)",
+    "guest": [
+      "PEAK (Landfall / Aggro Crab)"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "E1GAT0-dotcom",
+      "url": "https://github.com/E1GAT0-dotcom"
+    },
+    "summary": "Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install.",
+    "links": {
+      "repo": "https://github.com/E1GAT0-dotcom/MinePeak",
+      "download": "https://github.com/E1GAT0-dotcom/MinePeak/releases/tag/v0.1.0",
+      "page": null,
+      "articles": [],
+      "extra": []
+    },
+    "github": {
+      "stars": 0,
+      "created": "2026-10-10",
+      "pushed": "2026-10-12",
+      "license": "MIT",
+      "archived": false
+    },
+    "first_shown": "2026-10-10",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minepeak/"
+  },
+  {
+    "id": "knee-deep-in-the-mines",
+    "title": "Knee-Deep in the Mines",
+    "host": "Minecraft: Java Edition (Fabric)",
+    "guest": [
+      "DOOM (shareware episode 1; other IWADs supplied by the player)"
+    ],
+    "direction": "into-minecraft",
+    "status": "code-only",
+    "creator": {
+      "name": "Pragyaan Gaur",
+      "url": "https://github.com/pragyaangaur"
+    },
+    "summary": "Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds.",
+    "links": {
+      "repo": "https://github.com/pragyaangaur/Knee-Deep-In-The-Mines",
+      "download": null,
+      "page": "https://github.com/pragyaangaur/Knee-Deep-In-The-Mines",
+      "articles": [],
+      "extra": [
+        {
+          "label": "doomgeneric upstream",
+          "url": "https://github.com/ozkl/doomgeneric"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2026-10-05",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/knee-deep-in-the-mines/"
+  },
+  {
+    "id": "retro-machines",
+    "title": "Retro Machines (Game Boy in Minecraft)",
+    "host": "Minecraft: Java Edition (Fabric 1.20.1)",
+    "guest": [
+      "Game Boy (rboy emulator)"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "modmuss50",
+      "url": null
+    },
+    "summary": "Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype.",
+    "links": {
+      "repo": null,
+      "download": "https://www.curseforge.com/minecraft/mc-mods/retro-machines",
+      "page": "https://www.curseforge.com/minecraft/mc-mods/retro-machines",
+      "articles": [],
+      "extra": [
+        {
+          "label": "rboy emulator",
+          "url": "https://github.com/mvdnes/rboy"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2023-08-17",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/retro-machines/"
+  },
+  {
+    "id": "retroconsole",
+    "title": "RetroConsole (libretro consoles in Minecraft)",
+    "host": "Minecraft",
+    "guest": [
+      "libretro-emulated console games (NES, SNES, GBA, Genesis, PS1, PS2, PSP, Dreamcast)"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "Gaigen",
+      "url": null
+    },
+    "summary": "A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players.",
+    "links": {
+      "repo": "https://github.com/Gaigen/retroconsole",
+      "download": "https://github.com/Gaigen/retroconsole/releases",
+      "page": "https://www.curseforge.com/minecraft/mc-mods/retroconsole",
+      "articles": [],
+      "extra": []
+    },
+    "github": {},
+    "first_shown": "2026-07-11",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/retroconsole/"
+  },
+  {
+    "id": "blockboy",
+    "title": "BlockBoy / BlockBoy Arcade",
+    "host": "Minecraft: Java Edition (Fabric)",
+    "guest": [
+      "Game Boy / Game Boy Color software"
+    ],
+    "direction": "into-minecraft",
+    "status": "released",
+    "creator": {
+      "name": "tomalbrc",
+      "url": null
+    },
+    "summary": "Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines.",
+    "links": {
+      "repo": "https://github.com/tomalbrc/BlockBoy-Arcade",
+      "download": "https://modrinth.com/mod/blockboy-arcade",
+      "page": "https://modrinth.com/mod/blockboy-arcade",
+      "articles": [],
+      "extra": [
+        {
+          "label": "BlockBoy (original)",
+          "url": "https://github.com/tomalbrc/BlockBoy"
+        },
+        {
+          "label": "coffee-gb upstream",
+          "url": "https://github.com/trekawek/coffee-gb"
+        }
+      ]
+    },
+    "github": {},
+    "first_shown": "2024-04-15",
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/blockboy/"
+  },
+  {
+    "id": "quakecraft",
+    "title": "QuakeCraft",
+    "host": "Minecraft: Java Edition",
+    "guest": [
+      "Quake III Arena"
+    ],
+    "direction": "into-minecraft",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "kilobyt1",
+      "url": "https://github.com/kilobyt1"
+    },
+    "summary": "Runs Quake III Arena next to Minecraft Java and brings its movement, physics and weapons into a Minecraft world through a two-process passthrough bridge.",
+    "links": {
+      "repo": "https://github.com/kilobyt1/QuakeCraft"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/quakecraft/"
+  },
+  {
+    "id": "minebloxroyale",
+    "title": "Mineblox Royale",
+    "host": "Minecraft: Java Edition",
+    "guest": [
+      "Fortnite",
+      "Roblox"
+    ],
+    "direction": "into-minecraft",
+    "category": "port",
+    "status": "unreviewed",
+    "creator": {
+      "name": "Pixelplayz2215",
+      "url": "https://github.com/Pixelplayz2215"
+    },
+    "summary": "A battle royale in Minecraft with a Roblox-style hub and Fortnite rules: drop from the Battle Bus, loot chests, build walls and ramps and outlast the storm against bots.",
+    "links": {
+      "repo": "https://github.com/Pixelplayz2215/MinebloxRoyale"
+    },
+    "github": {},
+    "verified_on": "2026-10-19",
+    "page": "https://mineplus.org/p/minebloxroyale/"
+  }
+]
