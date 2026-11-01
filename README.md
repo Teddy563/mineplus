@@ -2,7 +2,7 @@
 
 Every mod, port and bridge that runs Minecraft inside another game, and the games that run inside Minecraft. **64 projects across 38 games, plus 33 games inside Minecraft.** Search, filter and watch the videos at **[mineplus.org](https://mineplus.org)**.
 
-[![Mineplus](https://img.shields.io/badge/browse-mineplus.org-ffda36?style=flat-square&labelColor=1c1c1c)](https://mineplus.org) ![Projects](https://img.shields.io/badge/projects-97-ffda36?style=flat-square&labelColor=1c1c1c) ![Updated](https://img.shields.io/badge/updated-2026--10--19-ffda36?style=flat-square&labelColor=1c1c1c)
+[![Mineplus](https://img.shields.io/badge/browse-mineplus.org-ffda36?style=flat-square&labelColor=1c1c1c)](https://mineplus.org) ![Projects](https://img.shields.io/badge/projects-97-ffda36?style=flat-square&labelColor=1c1c1c) ![Updated](https://img.shields.io/badge/updated-2026--11--01-ffda36?style=flat-square&labelColor=1c1c1c)
 
 > **Safety.** Download only from the creator's own repo or release page. Fake "mashup" repos spread malware on the back of this trend; they are never listed here. Use these mods offline and in single-player only, and back up your saves.
 
