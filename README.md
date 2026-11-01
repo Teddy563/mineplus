@@ -1,53 +1,62 @@
 # Mineplus: Minecraft inside every other game
 
-Every mod, port and bridge that runs Minecraft inside another game, and the games that run inside Minecraft. **64 projects across 38 games, plus 33 games inside Minecraft.** Search, filter and watch the videos at **[mineplus.org](https://mineplus.org)**.
+Every mod, port and bridge that runs Minecraft inside another game, and the games that run inside Minecraft. **84 projects across 47 games, plus 41 games inside Minecraft.** Search, filter and watch the videos at **[mineplus.org](https://mineplus.org)**.
 
-[![Mineplus](https://img.shields.io/badge/browse-mineplus.org-ffda36?style=flat-square&labelColor=1c1c1c)](https://mineplus.org) ![Projects](https://img.shields.io/badge/projects-97-ffda36?style=flat-square&labelColor=1c1c1c) ![Updated](https://img.shields.io/badge/updated-2026--11--01-ffda36?style=flat-square&labelColor=1c1c1c)
+[![Mineplus](https://img.shields.io/badge/browse-mineplus.org-ffda36?style=flat-square&labelColor=1c1c1c)](https://mineplus.org) ![Projects](https://img.shields.io/badge/projects-125-ffda36?style=flat-square&labelColor=1c1c1c) ![Updated](https://img.shields.io/badge/updated-2026--11--01-ffda36?style=flat-square&labelColor=1c1c1c)
 
 > **Safety.** Download only from the creator's own repo or release page. Fake "mashup" repos spread malware on the back of this trend; they are never listed here. Use these mods offline and in single-player only, and back up your saves.
 
 ## Contents
 
 - [Minecraft in Elden Ring](#minecraft-in-elden-ring) (7)
-- [Minecraft in GTA V](#minecraft-in-gta-v) (6)
+- [Minecraft in GTA V](#minecraft-in-gta-v) (7)
+- [Minecraft in Half-Life](#minecraft-in-half-life) (4)
 - [Minecraft in Cyberpunk 2077](#minecraft-in-cyberpunk-2077) (3)
 - [Minecraft in Fallout 4](#minecraft-in-fallout-4) (3)
 - [Minecraft in Fallout: New Vegas](#minecraft-in-fallout-new-vegas) (3)
 - [Minecraft in Hytale](#minecraft-in-hytale) (3)
+- [Minecraft in Subnautica](#minecraft-in-subnautica) (3)
 - [Minecraft in Call of Duty: MW2](#minecraft-in-call-of-duty-mw2) (2)
+- [Minecraft in FNAF: Security Breach](#minecraft-in-fnaf-security-breach) (2)
+- [Minecraft in Grand Theft Auto: San Andreas](#minecraft-in-grand-theft-auto-san-andreas) (2)
 - [Minecraft in GTA IV](#minecraft-in-gta-iv) (2)
-- [Minecraft in Half-Life](#minecraft-in-half-life) (2)
-- [Minecraft in Subnautica](#minecraft-in-subnautica) (2)
+- [Minecraft in Left 4 Dead 2](#minecraft-in-left-4-dead-2) (2)
+- [Minecraft in Skyrim](#minecraft-in-skyrim) (2)
+- [Minecraft in The Legend of Zelda: Breath of the Wild](#minecraft-in-the-legend-of-zelda-breath-of-the-wild) (2)
+- [Minecraft in The Witcher 3](#minecraft-in-the-witcher-3) (2)
+- [Minecraft in ULTRAKILL](#minecraft-in-ultrakill) (2)
 - [Minecraft in Bendy and the Ink Machine](#minecraft-in-bendy-and-the-ink-machine) (1)
 - [Minecraft in CS:GO (rewrite)](#minecraft-in-csgo-rewrite) (1)
-- [Minecraft in FNAF: Security Breach](#minecraft-in-fnaf-security-breach) (1)
+- [Minecraft in Death Stranding](#minecraft-in-death-stranding) (1)
+- [Minecraft in Doom](#minecraft-in-doom) (1)
+- [Minecraft in Dragon Ball Z](#minecraft-in-dragon-ball-z) (1)
+- [Minecraft in Garry's Mod](#minecraft-in-garrys-mod) (1)
 - [Minecraft in Gorilla Tag (VR, Unity)](#minecraft-in-gorilla-tag-vr-unity) (1)
-- [Minecraft in GTA III](#minecraft-in-gta-iii) (1)
-- [Minecraft in GTA San Andreas](#minecraft-in-gta-san-andreas) (1)
+- [Minecraft in Grand Theft Auto III (re3)](#minecraft-in-grand-theft-auto-iii-re3) (1)
+- [Minecraft in Granny](#minecraft-in-granny) (1)
 - [Minecraft in Half Sword](#minecraft-in-half-sword) (1)
 - [Minecraft in Halo MCC](#minecraft-in-halo-mcc) (1)
-- [Minecraft in Left 4 Dead 2](#minecraft-in-left-4-dead-2) (1)
 - [Minecraft in Lethal Company](#minecraft-in-lethal-company) (1)
 - [Minecraft in Megabonk](#minecraft-in-megabonk) (1)
 - [Minecraft in Minecraft (real-world maps)](#minecraft-in-minecraft-real-world-maps) (1)
 - [Minecraft in MiSide](#minecraft-in-miside) (1)
+- [Minecraft in Mount & Blade II: Bannerlord](#minecraft-in-mount--blade-ii-bannerlord) (1)
 - [Minecraft in My Summer Car](#minecraft-in-my-summer-car) (1)
 - [Minecraft in Outer Wilds](#minecraft-in-outer-wilds) (1)
 - [Minecraft in Palworld](#minecraft-in-palworld) (1)
 - [Minecraft in PEAK](#minecraft-in-peak) (1)
 - [Minecraft in Ready or Not](#minecraft-in-ready-or-not) (1)
+- [Minecraft in Resident Evil 4](#minecraft-in-resident-evil-4) (1)
 - [Minecraft in Resident Evil Requiem](#minecraft-in-resident-evil-requiem) (1)
 - [Minecraft in Saints Row: The Third](#minecraft-in-saints-row-the-third) (1)
-- [Minecraft in Skyrim](#minecraft-in-skyrim) (1)
+- [Minecraft in Sekiro](#minecraft-in-sekiro) (1)
 - [Minecraft in Stellar Blade](#minecraft-in-stellar-blade) (1)
 - [Minecraft in Super Mario 64](#minecraft-in-super-mario-64) (1)
-- [Minecraft in The Legend of Zelda: Breath of the Wild](#minecraft-in-the-legend-of-zelda-breath-of-the-wild) (1)
-- [Minecraft in The Witcher 3](#minecraft-in-the-witcher-3) (1)
-- [Minecraft in ULTRAKILL](#minecraft-in-ultrakill) (1)
 - [Minecraft in Valheim](#minecraft-in-valheim) (1)
 - [Minecraft in World of Warcraft](#minecraft-in-world-of-warcraft) (1)
+- [Minecraft in Zelda: Ocarina of Time](#minecraft-in-zelda-ocarina-of-time) (1)
 - [Tools](#tools) (3)
-- [Games inside Minecraft](#games-inside-minecraft) (33)
+- [Games inside Minecraft](#games-inside-minecraft) (41)
 - [Add a project](#add-a-project)
 
 Status: **Released** has a build from the creator · **Code only** has source but no build · **Showcase** is video only · **Unreviewed** was found by search and not checked by hand · **Removed** was taken down by its creator.
@@ -77,21 +86,34 @@ Status: **Released** has a build from the creator · **Code only** has source bu
   Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos.
 - **[GrandTheftMinecraft](https://github.com/cyteon/GrandTheftMinecraft)** by cyteon · Released · ★ 10 · [details](https://mineplus.org/p/grandtheftminecraft/)  
   Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode.
-- **[GtaCraft](https://github.com/gta5craft/GtaCraft)** by gta5craft · Unreviewed · ★ 5 · [details](https://mineplus.org/p/gtacraft-gta5craft/)  
-  Experimental single-player GTA V Legacy ↔ Minecraft Java bridge. Natural terrain, vehicles, block destruction and bilingual setup.
+- **[GtaCraft (GTA V x Minecraft, gta5craft)](https://github.com/gta5craft/GtaCraft)** by mannin1337 · Released · ★ 5 · [details](https://mineplus.org/p/gtacraft-gta5craft/)  
+  Connects GTA V Story Mode and Minecraft Java so you can switch between a Minecraft Overworld and a Minecraft mirror of Los Santos and drive on block terrain.
+- **GTA 5 (Minecraft Edition) on iPhone** by 0xProbability · Showcase · [details](https://mineplus.org/p/gta-v-minecraft-edition-ios/)  
+  A showcase of Steve, the Minecraft HUD and a rideable Ender Dragon inside an unofficial iPhone port of GTA V, later with Elytra flight. No public download; the iOS port it runs on is a separate project facing takedowns.
 - **[GTA V Enhanced Minecraft Steve Passthrough](https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough)** by utku6767 · Unreviewed · ★ 1 · [details](https://mineplus.org/p/gta-v-enhanced-minecraft-steve-passthrough-utku6767/)  
   A precompiled fork of the Minecraft x GTA V passthrough, adapted for GTA V Enhanced.
 - **[Minecraft × GTA V Passthrough (LowBacon)](https://github.com/LowBacon/minecraft-gta5-passthrough)** by LowBacon · Unreviewed · [details](https://mineplus.org/p/minecraft-gta5-passthrough-lowbacon/)  
   Runs Minecraft Java Edition inside GTA V Enhanced Story Mode, with Steve, blocks, mobs, synced time and weather drawn into the game through ReShade.
 
+## Minecraft in Half-Life
+
+- **[HalfCraft (Minecraft in Half-Life)](https://github.com/sogutemir/HalfCraft)** by sogutemir · Code only · ★ 2 · [details](https://mineplus.org/p/halfcraft-half-life/)  
+  Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release.
+- **[Minecraft X Half-Life](https://github.com/SawyerTheNerd/Minecraft-X-HalfLife)** by SawyerTheNerd · Code only · [details](https://mineplus.org/p/minecraft-x-half-life/)  
+  Ports SkyCraft's Minecraft passthrough model to Half-Life.
+- **[HL2Minecraft](https://github.com/ShadowBlade83/HalfLife2Minecraft)** by ShadowBlade83 · Released · [details](https://mineplus.org/p/hl2minecraft/)  
+  Streams Minecraft chunks and entities into Half-Life 2's Direct3D 9 scene.
+- **[HalfCraft (Minecraft in Half-Life 2, whiskydumb)](https://github.com/whiskydumb/halfcraft)** by whiskydumb · Released · [details](https://mineplus.org/p/halfcraft-whiskydumb/)  
+  Runs real Minecraft hidden over shared memory inside Half-Life 2 / Episodes via a Source SDK 2013 mod.
+
 ## Minecraft in Cyberpunk 2077
 
-- **[Minepunk](https://github.com/Duocor3/minepunk)** by Duocor3 · Unreviewed · ★ 3 · [details](https://mineplus.org/p/minepunk-duocor3/)  
-  Runs real Minecraft Java inside Cyberpunk 2077: Steve replaces V, built blocks are solid, and ender pearls, TNT and the elytra work in Night City.
+- **[Minepunk (Minecraft in Cyberpunk 2077)](https://github.com/Duocor3/minepunk)** by Duocor3 · Code only · ★ 3 · [details](https://mineplus.org/p/minepunk/)  
+  Runs real Minecraft Java inside Cyberpunk 2077, with Steve replacing V and Minecraft items acting on Night City.
+- **[CyberCraft (Minecraft in Cyberpunk 2077)](https://github.com/ItzBloxy/CyberCraft)** by ItzBloxy · Released · [details](https://mineplus.org/p/cybercraft-itzbloxy/)  
+  SkyCraft-based port that lets you play Night City as a Minecraft player with block building, Minecraft physics and combat.
 - **[cyberblock](https://github.com/rodthegod2/cyberblock)** by rodthegod2 · Unreviewed · ★ 1 · [details](https://mineplus.org/p/cyberblock-rodthegod2/)  
   Experimental work in progress: play Cyberpunk 2077 as a Minecraft player. Real Minecraft (Fabric) composited into Night City via a RED4ext plugin + ReShade add-on. Unofficial fan project.
-- **[CyberCraft](https://github.com/ItzBloxy/CyberCraft)** by ItzBloxy · Unreviewed · [details](https://mineplus.org/p/cybercraft-itzbloxy/)  
-  Minecraft merged with Cyberpunk 2077
 
 ## Minecraft in Fallout 4
 
@@ -106,8 +128,8 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 
 - **[New VegasCraft](https://github.com/Davozh/new-vegascraft)** by Davozh · Code only · ★ 1 · [details](https://mineplus.org/p/new-vegascraft/)  
   Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave.
-- **[VegasCraft (benedettoscala)](https://github.com/benedettoscala/VegasCraft)** by benedettoscala · Unreviewed · ★ 1 · [details](https://mineplus.org/p/vegascraft-benedettoscala/)  
-  Play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat. Experimental xNVSE + Fabric port inspired by SkyCraft.
+- **[VegasCraft (benedettoscala)](https://github.com/benedettoscala/VegasCraft)** by benedettoscala · Released · ★ 1 · [details](https://mineplus.org/p/vegascraft-benedettoscala/)  
+  Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it.
 - **[VegasCraft (Hanaka15)](https://github.com/Hanaka15/VegasCraft)** by Hanaka15 · Unreviewed · [details](https://mineplus.org/p/vegascraft-hanaka15/)  
   Play Fallout: New Vegas as a Minecraft player, with Minecraft's movement, inventory, HUD, blocks and weapons inside the Mojave.
 
@@ -120,12 +142,35 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 - **Minecraft Classic 0.30 inside Hytale** by Sadat Sahib / iamcxv7 / SSquadTeam · Showcase · [details](https://mineplus.org/p/minecraft-classic-hytale/)  
   Shows Minecraft Classic running on Hytale’s in-game world-map screen.
 
+## Minecraft in Subnautica
+
+- **[Subnauticraft (Subnautica Link)](https://github.com/JasonNinja15/Subnauticraft)** by JasonNinja15 · Released · ★ 2 · [details](https://mineplus.org/p/subnauticraft/)  
+  Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer.
+- **[SubCraft](https://github.com/FumperForrest/SubCraft)** by FumperForrest · Code only · ★ 1 · [details](https://mineplus.org/p/subcraft/)  
+  Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering.
+- **[SubnautiCraft (Minecraft inside Subnautica)](https://github.com/dacotin2/SubnautiCraft)** by dacotin2 · Released · [details](https://mineplus.org/p/subnauticraft-dacotin2/)  
+  Lets you play Subnautica as Steve, with Minecraft physics, blocks and crafting blended into Subnautica's seafloor.
+
 ## Minecraft in Call of Duty: MW2
 
 - **[2010 Rust Rewrite Mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup)** by chasmlol · Released · ★ 900 · [details](https://mineplus.org/p/rust-rewrite-mashup/)  
   Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world.
 - **[Minecraft Zombies (bo2mc)](https://github.com/DaffyDabz/bo2-minecraft-zombies)** by DaffyDabz · Released · ★ 5 · [details](https://mineplus.org/p/bo2-minecraft-zombies/)  
   Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine.
+
+## Minecraft in FNAF: Security Breach
+
+- **[SBCraft](https://github.com/pebbleford/sbcraft)** by pebbleford · Released · [details](https://mineplus.org/p/sbcraft/)  
+  Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game.
+- **[FNAFSBCraft (Minecraft inside FNAF: Security Breach)](https://github.com/Mielesgames/securitybreach-minecraft-passthrough)** by Mielesgames · Released · [details](https://mineplus.org/p/fnafsbcraft/)  
+  Plays Five Nights at Freddy's: Security Breach as Steve, with a Minecraft client running beside the game.
+
+## Minecraft in Grand Theft Auto: San Andreas
+
+- **[GTA SA Minecraft (muki01)](https://github.com/muki01/GTA-SA-Minecraft)** by muki01 · Released · [details](https://mineplus.org/p/gta-sa-minecraft-muki01/)  
+  C++ ASI plugin that adds Minecraft block building, crafting and mobs to GTA: San Andreas.
+- **[GroveCraft (Minecraft in GTA: San Andreas)](https://github.com/Axel12Q/GroveCraft)** by Axel12Q · Released · [details](https://mineplus.org/p/grovecraft/)  
+  Windows alpha that runs Minecraft Java beside GTA: San Andreas and draws its blocks, creatures and interface inside the city.
 
 ## Minecraft in GTA IV
 
@@ -134,19 +179,40 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 - **[Minecraft PassthroughIV](https://www.nexusmods.com/gta4/mods/1498)** by Akatoshthe2nd · Released · [details](https://mineplus.org/p/minecraft-passthrough-iv/)  
   Draws a real Minecraft Java session into GTA IV's Liberty City.
 
-## Minecraft in Half-Life
+## Minecraft in Left 4 Dead 2
 
-- **[HalfCraft (Minecraft in Half-Life)](https://github.com/sogutemir/HalfCraft)** by sogutemir · Code only · ★ 2 · [details](https://mineplus.org/p/halfcraft-half-life/)  
-  Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release.
-- **[Minecraft X Half-Life](https://github.com/SawyerTheNerd/Minecraft-X-HalfLife)** by SawyerTheNerd · Code only · [details](https://mineplus.org/p/minecraft-x-half-life/)  
-  Ports SkyCraft's Minecraft passthrough model to Half-Life.
+- **[L4D2 x Minecraft](https://github.com/Rizen1322/l4d2-minecraft)** by Rizen1322 · Released · ★ 3 · [details](https://mineplus.org/p/l4d2-minecraft/)  
+  Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op.
+- **[Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](https://github.com/ShadowBlade83/Left4Craft2)** by ShadowBlade83 · Released · [details](https://mineplus.org/p/left4craft2/)  
+  Lets you play Left 4 Dead 2 as Steve, with Minecraft physics, HUD and blocks while L4D2 runs the world and infected.
 
-## Minecraft in Subnautica
+## Minecraft in Skyrim
 
-- **[Subnauticraft (Subnautica Link)](https://github.com/JasonNinja15/Subnauticraft)** by JasonNinja15 · Released · ★ 2 · [details](https://mineplus.org/p/subnauticraft/)  
-  Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer.
-- **[SubCraft](https://github.com/FumperForrest/SubCraft)** by FumperForrest · Code only · ★ 1 · [details](https://mineplus.org/p/subcraft/)  
-  Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering.
+- **[SkyCraft](https://github.com/chasmlol/SkyCraft)** by chasmlol · Released · ★ 1,242 · [details](https://mineplus.org/p/skycraft/)  
+  Brings Minecraft building, exploration and gameplay into Skyrim.
+- **[SkyCraft Classic LE](https://github.com/aubuliOFFICIAL/skycraft-classic-le)** by aubuliOFFICIAL · Unreviewed · [details](https://mineplus.org/p/skycraft-classic-le/)  
+  Unfinished MIT source for a Minecraft Java and original Skyrim (Legendary Edition) mashup. Source review only, with no playable release or game assets.
+
+## Minecraft in The Legend of Zelda: Breath of the Wild
+
+- **[BOTWCraft (Minecraft in Breath of the Wild)](https://github.com/arskyandre/botwcraft-fabric)** by arskyandre · Code only · [details](https://mineplus.org/p/botwcraft/)  
+  Work-in-progress passthrough that lets a Minecraft Java client play Breath of the Wild running in Cemu.
+- **[BOTW x Minecraft bridge](https://github.com/arskyandre/botwcraft-fabric)** by arskyandre · Unreviewed · [details](https://mineplus.org/p/botwcraft-fabric/)  
+  Play Breath of the Wild as the Minecraft player: a real Minecraft Java client runs beside the game in Cemu and owns movement, camera, inventory and building.
+
+## Minecraft in The Witcher 3
+
+- **[WitcherCraft](https://github.com/Wanesia/WitcherCraft)** by Wanesia · Released · ★ 1 · [details](https://mineplus.org/p/witchercraft/)  
+  Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside.
+- **[WitchCraft (Henvag)](https://github.com/Henvag/WitchCraft)** by Henvag · Unreviewed · ★ 1 · [details](https://mineplus.org/p/witchcraft-henvag/)  
+  A Minecraft passthrough prototype for The Witcher 3 that reuses the SkyCraft protocol to bring Steve into the Continent.
+
+## Minecraft in ULTRAKILL
+
+- **[Killcraft](https://github.com/goonsn/Killcraft)** by goonsn · Released · ★ 2 · [details](https://mineplus.org/p/killcraft/)  
+  Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels.
+- **[MINEKILL](https://github.com/niliota/MINEKILL)** by niliota · Released · [details](https://mineplus.org/p/minekill/)  
+  Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels.
 
 ## Minecraft in Bendy and the Ink Machine
 
@@ -158,25 +224,40 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 - **[CS-Craft](https://github.com/FrosttysBots/CS-Craft)** by FrosttysBots / Frostty · Released · ★ 8 · [details](https://mineplus.org/p/cs-craft/)  
   Adds a Minecraft Overworld/progression mode to a CS:GO Rust/Bevy rewrite.
 
-## Minecraft in FNAF: Security Breach
+## Minecraft in Death Stranding
 
-- **[SBCraft](https://github.com/pebbleford/sbcraft)** by pebbleford · Released · [details](https://mineplus.org/p/sbcraft/)  
-  Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game.
+- **[Minecraft in Death Stranding](https://github.com/mihailinl/minecraft-in-death-stranding)** by mihailinl · Code only · [details](https://mineplus.org/p/minecraft-death-stranding/)  
+  Source-only passthrough mod drawing real Minecraft into Death Stranding Director's Cut with shared collision.
+
+## Minecraft in Doom
+
+- **[DoomCraft](https://github.com/roryekay/doomcraft)** by roryekay · Released · [details](https://mineplus.org/p/doomcraft-roryekay/)  
+  Runs Minecraft Java gameplay inside classic Doom and Doom II through a patched GZDoom engine.
+
+## Minecraft in Dragon Ball Z
+
+- **Minecraft x Dragon Ball Z** by Minecraft Marketplace · Released · [details](https://mineplus.org/p/minecraft-dragon-ball-z/)  
+  Official Minecraft Marketplace DLC that turns Minecraft Bedrock into a Dragon Ball Z fighting game. The 1.1 Legends update adds Bardock, Teen Gohan, Gotenks and Vegito, more Story Mode fights and an eight-player Custom Tournament.
+
+## Minecraft in Garry's Mod
+
+- **[Garry's Modcraft](https://github.com/cheetahdotcat/garrys-modcraft)** by cheetahdotcat · Released · [details](https://mineplus.org/p/garrys-modcraft/)  
+  Runs Minecraft alongside Garry's Mod in one shared world with props, NPCs and redstone-to-Wiremod links.
 
 ## Minecraft in Gorilla Tag (VR, Unity)
 
 - **[Gorilla Passthrough (Gorilla Tag x Minecraft)](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough)** by arvabarva · Released · ★ 1 · [details](https://mineplus.org/p/gorilla-passthrough/)  
   Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world.
 
-## Minecraft in GTA III
+## Minecraft in Grand Theft Auto III (re3)
 
-- **[Minecraft in GTA III](https://github.com/akilex02/minecraft-in-gta3)** by akilex02 · Unreviewed · [details](https://mineplus.org/p/minecraft-in-gta3/)  
-  Runs a Minecraft Fabric mod beside the re3 GTA III source port through shared memory, so Steve walks Liberty City and Minecraft blocks are drawn in the city.
+- **[Minecraft in GTA III (re3)](https://github.com/akilex02/minecraft-in-gta3)** by akilex02 · Code only · [details](https://mineplus.org/p/minecraft-in-gta3/)  
+  Fabric mod and re3 patch that link Minecraft to the re3 GTA III source port over shared memory so Steve walks on Liberty City.
 
-## Minecraft in GTA San Andreas
+## Minecraft in Granny
 
-- **[GroveCraft](https://github.com/Axel12Q/GroveCraft)** by Axel12Q · Unreviewed · [details](https://mineplus.org/p/grovecraft/)  
-  Runs Minecraft Java next to GTA San Andreas and draws its blocks, mobs and HUD in the city, with building, mining, crafting and hunger while CJ keeps his cars and missions.
+- **[Granny Minecraft Passthrough](https://github.com/cabcrab/Granny-Minecraft-Passthrough)** by cabcrab · Code only · [details](https://mineplus.org/p/granny-minecraft-passthrough/)  
+  Runs real Minecraft Java alongside Granny Legacy and blends it into Granny's house.
 
 ## Minecraft in Half Sword
 
@@ -187,11 +268,6 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 
 - **[Halocraft](https://steamcommunity.com/sharedfiles/filedetails/?id=2899362333)** by InfernoPlus · Released · [details](https://mineplus.org/p/halocraft/)  
   Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer.
-
-## Minecraft in Left 4 Dead 2
-
-- **[L4D2 x Minecraft](https://github.com/Rizen1322/l4d2-minecraft)** by Rizen1322 · Released · ★ 3 · [details](https://mineplus.org/p/l4d2-minecraft/)  
-  Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op.
 
 ## Minecraft in Lethal Company
 
@@ -213,6 +289,11 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 - **[MiSide × Minecraft](https://github.com/Gorikla34/MiSide-x-Minecraft-Mashup-v1.0.0)** by Gorikla34 · Unreviewed · [details](https://mineplus.org/p/miside-x-minecraft-mashup-v1-0-0-gorikla34/)  
   Play as a Minecraft-style builder in Mita's house (MiSide Demo is the host game).
 
+## Minecraft in Mount & Blade II: Bannerlord
+
+- **[Bannerlord x Minecraft Passthrough](https://github.com/emretrksy/bannerlord-minecraft-passthrough)** by Emre Türksoy · Released · [details](https://mineplus.org/p/bannerlord-minecraft-passthrough/)  
+  Puts Minecraft's Steve into Mount & Blade II: Bannerlord battles, with Minecraft combat, blocks and inventory running side by side.
+
 ## Minecraft in My Summer Car
 
 - **[CraftMSC](https://www.nexusmods.com/mysummercar/mods/12619)** by Morri (Nexus uploader morrics) · Released · [details](https://mineplus.org/p/craftmsc/)  
@@ -225,8 +306,8 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 
 ## Minecraft in Palworld
 
-- **[PalCraft](https://github.com/EQQX0/PalCraft)** by EQQX0 · Unreviewed · [details](https://mineplus.org/p/palcraft-eqqx0/)  
-  Play Palworld as Steve: Minecraft runs alongside Palworld and draws its blocks, hand and hotbar into Palworld's frame, so you can build, dig and fight Pals with Minecraft controls.
+- **[PalCraft (Minecraft in Palworld)](https://github.com/EQQX0/PalCraft)** by EQQX0 · Code only · [details](https://mineplus.org/p/palcraft/)  
+  Runs Minecraft: Java Edition beside Palworld so you play Palworld as Steve with Minecraft movement, building and combat.
 
 ## Minecraft in PEAK
 
@@ -238,6 +319,11 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 - **[BlockBreach](https://github.com/ImmortalSouull/BlockBreach)** by ImmortalSouull · Released · [details](https://mineplus.org/p/blockbreach/)  
   Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game.
 
+## Minecraft in Resident Evil 4
+
+- **[RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](https://github.com/Utimaa/ResidentCraft4)** by Utimaa · Released · [details](https://mineplus.org/p/residentcraft4/)  
+  Runs Minecraft Java in the background of Resident Evil 4 UHD and draws its player, HUD and blocks inside RE4; alpha.
+
 ## Minecraft in Resident Evil Requiem
 
 - **Requiem x Minecraft : Building and Survival** by Polverrati · Removed · [details](https://mineplus.org/p/requiem-x-minecraft/)  
@@ -248,10 +334,10 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 - **[Minecraft X Saints Row: The Third Remastered](https://github.com/SawyerTheNerd/Minecraft-X-SaintsRow3Remastered)** by SawyerTheNerd · Code only · [details](https://mineplus.org/p/minecraft-x-saints-row-3/)  
   Runs real Minecraft inside Saints Row: The Third Remastered, with building, TNT and combat in Stilwater.
 
-## Minecraft in Skyrim
+## Minecraft in Sekiro
 
-- **[SkyCraft](https://github.com/chasmlol/SkyCraft)** by chasmlol · Released · ★ 1,242 · [details](https://mineplus.org/p/skycraft/)  
-  Brings Minecraft building, exploration and gameplay into Skyrim.
+- **[SekiroCraft-Passthrough](https://github.com/Xu060113/SekiroCraft-Passthrough)** by Xu060113 · Code only · [details](https://mineplus.org/p/sekirocraft-passthrough/)  
+  Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes.
 
 ## Minecraft in Stellar Blade
 
@@ -263,21 +349,6 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 - **Minecraft voxel engine inside Super Mario 64** by Arthurtilly · Showcase · [details](https://mineplus.org/p/minecraft-sm64/)  
   Adds Minecraft-style terrain, blocks and lighting to Super Mario 64.
 
-## Minecraft in The Legend of Zelda: Breath of the Wild
-
-- **[BOTW x Minecraft bridge](https://github.com/arskyandre/botwcraft-fabric)** by arskyandre · Unreviewed · [details](https://mineplus.org/p/botwcraft-fabric/)  
-  Play Breath of the Wild as the Minecraft player: a real Minecraft Java client runs beside the game in Cemu and owns movement, camera, inventory and building.
-
-## Minecraft in The Witcher 3
-
-- **[WitcherCraft](https://github.com/Wanesia/WitcherCraft)** by Wanesia · Released · ★ 1 · [details](https://mineplus.org/p/witchercraft/)  
-  Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside.
-
-## Minecraft in ULTRAKILL
-
-- **[Killcraft](https://github.com/goonsn/Killcraft)** by goonsn · Released · ★ 2 · [details](https://mineplus.org/p/killcraft/)  
-  Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels.
-
 ## Minecraft in Valheim
 
 - **[ValCraft](https://github.com/LoAlCo/ValCraft)** by LoAlCo · Released · ★ 5 · [details](https://mineplus.org/p/valcraft/)  
@@ -287,6 +358,11 @@ Status: **Released** has a build from the creator · **Code only** has source bu
 
 - **[WowCraft : Minecraft inside World of Warcraft](https://github.com/over825hp/wowcraft/releases/tag/v0.1.1)** by over · Released · [details](https://mineplus.org/p/wowcraft/)  
   Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1.
+
+## Minecraft in Zelda: Ocarina of Time
+
+- **[SoHCraft (Minecraft in Ocarina of Time)](https://github.com/Shqn3/SoHCraft)** by Shqn3 · Released · [details](https://mineplus.org/p/sohcraft/)  
+  Plays Minecraft as Steve inside Ship of Harkinian Ocarina of Time, with online co-op; experimental Windows release.
 
 ## Tools
 
@@ -355,14 +431,30 @@ Status: **Released** has a build from the creator · **Code only** has source bu
   Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install.
 - **[Knee-Deep in the Mines](https://github.com/pragyaangaur/Knee-Deep-In-The-Mines)** by Pragyaan Gaur · Code only · [details](https://mineplus.org/p/knee-deep-in-the-mines/)  
   Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds.
-- **[Retro Machines (Game Boy in Minecraft)](https://www.curseforge.com/minecraft/mc-mods/retro-machines)** by modmuss50 · Released · [details](https://mineplus.org/p/retro-machines/)  
+- **[Retro Machines (Game Boy in Minecraft)](https://github.com/modmuss50/RetroMachines)** by modmuss50 · Released · [details](https://mineplus.org/p/retro-machines/)  
   Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype.
 - **[RetroConsole (libretro consoles in Minecraft)](https://github.com/Gaigen/retroconsole)** by Gaigen · Released · ★ 2 · [details](https://mineplus.org/p/retroconsole/)  
   A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players.
 - **[BlockBoy / BlockBoy Arcade](https://github.com/tomalbrc/BlockBoy-Arcade)** by tomalbrc · Released · ★ 4 · [details](https://mineplus.org/p/blockboy/)  
   Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines.
-- **[QuakeCraft](https://github.com/kilobyt1/QuakeCraft)** by kilobyt1 · Unreviewed · [details](https://mineplus.org/p/quakecraft/)  
-  Runs Quake III Arena next to Minecraft Java and brings its movement, physics and weapons into a Minecraft world through a two-process passthrough bridge.
+- **[ULTRAKILL inside Minecraft](https://github.com/xandermodsstuff-dot/ultrakill-minecraft)** by xandermodsstuff-dot · Code only · [details](https://mineplus.org/p/ultrakill-minecraft/)  
+  Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD.
+- **[Stellar Bridge (Stellar Blade x Minecraft)](https://github.com/MotherSphere/stellarblade-minecraft)** by MotherSphere · Released · [details](https://mineplus.org/p/stellar-blade-minecraft/)  
+  Plays Stellar Blade's EVE inside Minecraft Java by streaming her simulated pose into a Fabric mod.
+- **[QuakeCraft (Quake III Arena in Minecraft)](https://github.com/kilobyt1/QuakeCraft)** by kilobyt1 · Released · [details](https://mineplus.org/p/quakecraft/)  
+  Two-process bridge running Quake III Arena's movement and weapons alongside Minecraft Java.
+- **[Minecraft × BeamNG.drive](https://github.com/JASGENIUS/minecraft-beamng)** by JASGENIUS · Code only · [details](https://mineplus.org/p/minecraft-beamng/)  
+  Two-way bridge: BeamNG.drive cars driven in Minecraft, or Minecraft played inside a BeamNG map.
+- **[MineSkate 3 (Skate 3 in Minecraft)](https://github.com/tomTTFB/mineskate3)** by tomTTFB · Code only · [details](https://mineplus.org/p/mineskate3/)  
+  NeoForge mod that runs the Skate 3 Rust engine inside Minecraft so you skate on blocks with Skate 3 physics and trick HUD.
+- **[GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](https://github.com/easyax2/gorillacraft)** by easyax2 · Code only · [details](https://mineplus.org/p/gorillacraft/)  
+  Lets you play Minecraft in VR as a Gorilla Tag gorilla, with Gorilla Tag's arm-swing movement driven across Minecraft's blocks.
+- **[Retrocraft (libretro consoles in Minecraft)](https://github.com/sammwyy/retrocraft)** by Sammwy · Released · [details](https://mineplus.org/p/retrocraft/)  
+  A Fabric mod that adds handhelds, home consoles, arcade cabinets and CRT televisions to Minecraft 1.21.1, each backed by a real libretro emulator core.
+- **[MineDoom](https://github.com/SanjeetBalamurugan/mine-doom)** by Sanjeet Balamurugan · Released · [details](https://mineplus.org/p/minedoom/)  
+  Runs id Software's original 1997 linuxdoom C engine natively inside Minecraft's process via JNI, started from a Doom Block.
+- **[DoomCraft (ChromusMaster)](https://github.com/ChromusMaster/DoomCraft)** by ChromusMaster · Released · [details](https://mineplus.org/p/doomcraft-chromusmaster/)  
+  Adds a craftable CRT television to Minecraft that shows an isolated LZDoom process running player-supplied WADs.
 - **[Mineblox Royale](https://github.com/Pixelplayz2215/MinebloxRoyale)** by Pixelplayz2215 · Unreviewed · [details](https://mineplus.org/p/minebloxroyale/)  
   A battle royale in Minecraft with a Roblox-style hub and Fortnite rules: drop from the Battle Bus, loot chests, build walls and ramps and outlast the storm against bots.
 
